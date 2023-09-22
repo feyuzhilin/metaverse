@@ -1,0 +1,1085 @@
+2023-9-1 16:00:03-log: Cannot access game frame or container.
+2023-9-1 16:00:03-debug: asset-db:require-engine-code (1444ms)
+2023-9-1 16:00:04-log: Cocos Creator v3.8.0
+2023-9-1 16:00:04-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:19.20MB, end 87.79MB, increase: 68.59MB
+2023-9-1 16:00:04-debug: [Assets Memory track]: asset-db-plugin-register: programming start:88.65MB, end 93.97MB, increase: 5.33MB
+2023-9-1 16:00:04-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:87.80MB, end 91.36MB, increase: 3.56MB
+2023-9-1 16:00:04-debug: asset-db:worker-init: initPlugin (299ms)
+2023-9-1 16:00:04-debug: [Assets Memory track]: asset-db:worker-init start:19.20MB, end 91.42MB, increase: 72.21MB
+2023-9-1 16:00:04-debug: Run asset db hook programming:beforePreStart ...
+2023-9-1 16:00:04-debug: Run asset db hook programming:beforePreStart success!
+2023-9-1 16:00:04-debug: Run asset db hook engine-extends:beforePreStart ...
+2023-9-1 16:00:04-debug: Run asset db hook engine-extends:beforePreStart success!
+2023-9-1 16:00:05-debug: asset-db:worker-init (2801ms)
+2023-9-1 16:00:05-debug: asset-db-hook-programming-beforePreStart (706ms)
+2023-9-1 16:00:05-debug: asset-db-hook-engine-extends-beforePreStart (706ms)
+2023-9-1 16:00:05-debug: Preimport db internal success
+2023-9-1 16:00:05-debug: Preimport db assets success
+2023-9-1 16:00:05-debug: Run asset db hook programming:afterPreStart ...
+2023-9-1 16:00:08-debug: run package(builder) handler(enable) start
+2023-9-1 16:00:17-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:110.31MB, end 277.38MB, increase: 167.06MB
+2023-9-1 16:00:17-debug: run package(builder) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(shortcuts) handler(enable) start
+2023-9-1 16:00:17-debug: run package(animation-graph) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(about) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(assets) handler(enable) start
+2023-9-1 16:00:17-debug: run package(assets) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(shortcuts) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(console) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(crash-reporter) handler(enable) start
+2023-9-1 16:00:17-debug: run package(crash-reporter) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(extension) handler(enable) start
+2023-9-1 16:00:17-debug: run package(extension) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(hierarchy) handler(enable) start
+2023-9-1 16:00:17-debug: run package(hierarchy) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(inspector) handler(enable) start
+2023-9-1 16:00:17-debug: run package(inspector) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(light-probe) handler(enable) start
+2023-9-1 16:00:17-debug: run package(light-probe) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(lightmap) handler(enable) start
+2023-9-1 16:00:17-debug: run package(lightmap) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(node-library) handler(enable) start
+2023-9-1 16:00:17-debug: run package(node-library) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(package-asset) handler(enable) start
+2023-9-1 16:00:17-debug: run package(package-asset) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(process) handler(enable) start
+2023-9-1 16:00:17-debug: run package(process) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(reference-image) handler(enable) start
+2023-9-1 16:00:17-debug: run package(reference-image) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(reflection-probe) handler(enable) start
+2023-9-1 16:00:17-debug: run package(animation-graph) handler(enable) start
+2023-9-1 16:00:17-debug: run package(engine-extends) handler(enable) start
+2023-9-1 16:00:17-debug: run package(about) handler(enable) start
+2023-9-1 16:00:17-debug: run package(adsense-h5g-plugin) handler(enable) start
+2023-9-1 16:00:17-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(alipay-mini-game) handler(enable) start
+2023-9-1 16:00:17-debug: run package(alipay-mini-game) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(android) handler(enable) start
+2023-9-1 16:00:17-debug: run package(android) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(reflection-probe) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(bytedance-mini-game) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(certificate) handler(enable) start
+2023-9-1 16:00:17-debug: run package(certificate) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(channel-upload-tools) handler(enable) start
+2023-9-1 16:00:17-debug: run package(channel-upload-tools) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(fb-instant-games) handler(enable) start
+2023-9-1 16:00:17-debug: run package(engine-extends) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(huawei-agc) handler(enable) start
+2023-9-1 16:00:17-debug: run package(huawei-agc) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(huawei-quick-game) handler(enable) start
+2023-9-1 16:00:17-debug: run package(bytedance-mini-game) handler(enable) start
+2023-9-1 16:00:17-debug: run package(ios) handler(enable) start
+2023-9-1 16:00:17-debug: run package(ios) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(linux) handler(enable) start
+2023-9-1 16:00:17-debug: run package(linux) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(mac) handler(enable) start
+2023-9-1 16:00:17-debug: run package(mac) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(native) handler(enable) start
+2023-9-1 16:00:17-debug: run package(console) handler(enable) start
+2023-9-1 16:00:17-debug: run package(ohos) handler(enable) start
+2023-9-1 16:00:17-debug: run package(ohos) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(openharmony) handler(enable) start
+2023-9-1 16:00:17-debug: run package(openharmony) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(oppo-mini-game) handler(enable) start
+2023-9-1 16:00:17-debug: run package(oppo-mini-game) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(runtime-dev-tools) handler(enable) start
+2023-9-1 16:00:17-debug: run package(runtime-dev-tools) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(taobao-creative-app) handler(enable) start
+2023-9-1 16:00:17-debug: run package(huawei-quick-game) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(taobao-mini-game) handler(enable) start
+2023-9-1 16:00:17-debug: run package(taobao-mini-game) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(vivo-mini-game) handler(enable) start
+2023-9-1 16:00:17-debug: run package(vivo-mini-game) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(web-desktop) handler(enable) start
+2023-9-1 16:00:17-debug: run package(web-desktop) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(web-mobile) handler(enable) start
+2023-9-1 16:00:17-debug: run package(web-mobile) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(wechatgame) handler(enable) start
+2023-9-1 16:00:17-debug: run package(taobao-creative-app) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(wechatprogram) handler(enable) start
+2023-9-1 16:00:17-debug: run package(wechatprogram) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(windows) handler(enable) start
+2023-9-1 16:00:17-debug: run package(windows) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(xiaomi-quick-game) handler(enable) start
+2023-9-1 16:00:17-debug: run package(xiaomi-quick-game) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(cocos-service) handler(enable) start
+2023-9-1 16:00:17-debug: run package(cocos-service) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(fb-instant-games) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(im-plugin) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(prefab380fix) handler(enable) start
+2023-9-1 16:00:17-debug: run package(im-plugin) handler(enable) start
+2023-9-1 16:00:17-debug: run package(wechatgame) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(placeholder) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(placeholder) handler(enable) start
+2023-9-1 16:00:17-debug: run package(prefab380fix) handler(enable) success!
+2023-9-1 16:00:17-debug: run package(native) handler(enable) success!
+2023-9-1 16:00:18-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:00:18-debug: Run asset db hook engine-extends:afterPreStart ...
+2023-9-1 16:00:18-debug: Start up the 'internal' database...
+2023-9-1 16:00:18-debug: [Assets Memory track]: asset-db:worker-init: preStart start:91.42MB, end 279.36MB, increase: 187.93MB
+2023-9-1 16:00:18-debug: Run asset db hook programming:afterPreStart success!
+2023-9-1 16:00:18-debug: Run asset db hook engine-extends:afterPreStart success!
+2023-9-1 16:00:18-debug: asset-db-hook-programming-afterPreStart (13092ms)
+2023-9-1 16:00:18-debug: asset-db:worker-effect-data-processing (51ms)
+2023-9-1 16:00:18-debug: asset-db-hook-engine-extends-afterPreStart (51ms)
+2023-9-1 16:00:18-debug: start asset-db with asset: 466
+2023-9-1 16:00:18-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:109.26MB, end 282.66MB, increase: 173.40MB
+2023-9-1 16:00:18-debug: Start up the 'assets' database...
+2023-9-1 16:00:18-debug: asset-db:worker-startup-database[internal] (13283ms)
+2023-9-1 16:00:18-debug: start asset-db with asset: 46
+2023-9-1 16:00:18-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:109.30MB, end 278.03MB, increase: 168.72MB
+2023-9-1 16:00:18-debug: asset-db:worker-startup-database[assets] (13172ms)
+2023-9-1 16:00:18-debug: asset-db:start-database (13906ms)
+2023-9-1 16:00:18-debug: asset-db:ready (19337ms)
+2023-9-1 16:00:18-debug: init worker message success
+2023-9-1 16:00:19-debug: [Build Memory track]: builder:worker-init start:280.32MB, end 293.69MB, increase: 13.37MB
+2023-9-1 16:00:19-debug: programming:execute-script (8ms)
+2023-9-1 16:00:19-debug: builder:worker-init (713ms)
+2023-9-1 16:00:20-debug: programming:execute-script (5ms)
+2023-9-1 16:01:11-debug: refresh db internal success
+2023-9-1 16:01:11-debug: refresh db assets success
+2023-9-1 16:01:11-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:01:11-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:01:11-debug: asset-db:refresh-all-database (67ms)
+2023-9-1 16:01:11-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:01:21-debug: start refresh asset from /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scene...
+2023-9-1 16:01:21-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scenebackground: #aaff85; color: #000;color: #000;
+2023-9-1 16:01:21-debug: refresh asset /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes success
+2023-9-1 16:01:25-debug: Query all assets info in project
+2023-9-1 16:01:25-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:01:25-debug:   Number of all scenes: 1
+2023-9-1 16:01:25-debug:   Number of all scripts: 9
+2023-9-1 16:01:25-debug:   Number of other assets: 406
+2023-9-1 16:01:25-debug: reload all scripts.
+2023-9-1 16:01:25-debug: Incremental keys: 
+2023-9-1 16:01:25-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:01:25-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js is not in module cache!
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js is not in module cache!
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/11/115afd678fbce14e2765e8b0943cb0cc17ba718a.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/11/115afd678fbce14e2765e8b0943cb0cc17ba718a.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/11/115afd678fbce14e2765e8b0943cb0cc17ba718a.js" loaded.
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:01:25-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js is not in module cache!
+2023-9-1 16:01:25-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:01:25-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:01:25-debug: 查询 Asset Bundle start0%
+2023-9-1 16:01:25-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:01:25-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:01:25-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:01:25-debug: // ---- build task 查询 Asset Bundle ---- (51ms)
+2023-9-1 16:01:25-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:01:25-debug: run build task 查询 Asset Bundle success in 51 ms √5%
+2023-9-1 16:01:25-debug: 查询 Asset Bundle start5%
+2023-9-1 16:01:25-debug: [Build Memory track]: 查询 Asset Bundle start:246.56MB, end 247.68MB, increase: 1.12MB
+2023-9-1 16:01:25-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2023-9-1 16:01:25-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2023-9-1 16:01:25-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:01:25-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:01:25-debug: [Build Memory track]: 查询 Asset Bundle start:247.69MB, end 247.70MB, increase: 12.79KB
+2023-9-1 16:01:25-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 16:01:25-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:01:25-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:247.71MB, end 247.72MB, increase: 14.32KB
+2023-9-1 16:01:25-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 16:01:25-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:01:25-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-9-1 16:01:25-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2023-9-1 16:01:25-debug: [Build Memory track]: 填充脚本数据到 settings.json start:247.73MB, end 247.74MB, increase: 13.37KB
+2023-9-1 16:01:25-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:01:25-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:01:25-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (4ms)
+2023-9-1 16:01:25-debug: run build task 整理部分构建选项内数据到 settings.json success in 4 ms √15%
+2023-9-1 16:01:25-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:247.75MB, end 247.81MB, increase: 61.14KB
+2023-9-1 16:01:41-debug: Query all assets info in project
+2023-9-1 16:01:41-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:01:41-debug:   Number of all scenes: 1
+2023-9-1 16:01:41-debug:   Number of all scripts: 9
+2023-9-1 16:01:41-debug:   Number of other assets: 406
+2023-9-1 16:01:41-debug: reload all scripts.
+2023-9-1 16:01:41-debug: Incremental keys: 
+2023-9-1 16:01:41-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:01:41-debug: Unregister DebugViewRuntimeControl
+2023-9-1 16:01:41-debug: Unregister ThirdPersonCamera
+2023-9-1 16:01:41-debug: Unregister UI_Joystick
+2023-9-1 16:01:41-debug: Unregister RoosterJumpEntry
+2023-9-1 16:01:41-debug: Unregister FullScreenCtrl
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 16:01:41-debug: Unregister CharacterMovement
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/11/115afd678fbce14e2765e8b0943cb0cc17ba718a.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:01:41-debug: Unregister FPSCamera
+2023-9-1 16:01:41-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/11/115afd678fbce14e2765e8b0943cb0cc17ba718a.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:01:41-debug: 查询 Asset Bundle start0%
+2023-9-1 16:01:41-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:01:41-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 16:01:41-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:01:41-debug: Unregister FreeCamera
+2023-9-1 16:01:41-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:01:41-debug: // ---- build task 查询 Asset Bundle ---- (34ms)
+2023-9-1 16:01:41-debug: 查询 Asset Bundle start5%
+2023-9-1 16:01:41-debug: [Build Memory track]: 查询 Asset Bundle start:248.29MB, end 249.14MB, increase: 870.11KB
+2023-9-1 16:01:41-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:01:41-debug: run build task 查询 Asset Bundle success in 34 ms √5%
+2023-9-1 16:01:41-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:01:41-debug: run build task 查询 Asset Bundle success in 0 ms √10%
+2023-9-1 16:01:41-debug: [Build Memory track]: 查询 Asset Bundle start:249.14MB, end 249.19MB, increase: 43.14KB
+2023-9-1 16:01:41-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:01:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:01:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 16:01:41-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:01:41-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:249.20MB, end 249.21MB, increase: 17.84KB
+2023-9-1 16:01:41-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:01:41-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 16:01:41-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-9-1 16:01:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:01:41-debug: [Build Memory track]: 填充脚本数据到 settings.json start:249.22MB, end 249.24MB, increase: 13.32KB
+2023-9-1 16:01:41-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:01:41-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2023-9-1 16:01:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (4ms)
+2023-9-1 16:01:41-debug: run build task 整理部分构建选项内数据到 settings.json success in 4 ms √15%
+2023-9-1 16:01:41-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:249.24MB, end 249.31MB, increase: 63.10KB
+2023-9-1 16:02:14-debug: refresh db internal success
+2023-9-1 16:02:14-debug: refresh db assets success
+2023-9-1 16:02:14-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:02:14-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:02:14-debug: asset-db:refresh-all-database (64ms)
+2023-9-1 16:02:14-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:04:58-debug: refresh db internal success
+2023-9-1 16:04:58-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/UI_Joystick.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 16:04:58-debug: refresh db assets success
+2023-9-1 16:04:58-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:04:58-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:04:58-debug: asset-db:refresh-all-database (77ms)
+2023-9-1 16:04:58-debug: asset-db:worker-effect-data-processing (2ms)
+2023-9-1 16:04:58-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2023-9-1 16:04:59-debug: Query all assets info in project
+2023-9-1 16:04:59-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:04:59-debug:   Number of all scenes: 1
+2023-9-1 16:04:59-debug:   Number of all scripts: 9
+2023-9-1 16:04:59-debug:   Number of other assets: 406
+2023-9-1 16:04:59-debug: reload all scripts.
+2023-9-1 16:04:59-debug: Incremental keys: 
+2023-9-1 16:04:59-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:04:59-debug: Unregister DebugViewRuntimeControl
+2023-9-1 16:04:59-debug: Unregister CharacterMovement
+2023-9-1 16:04:59-debug: Unregister FPSCamera
+2023-9-1 16:04:59-debug: Unregister FreeCamera
+2023-9-1 16:04:59-debug: Unregister ThirdPersonCamera
+2023-9-1 16:04:59-debug: Unregister FullScreenCtrl
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/11/115afd678fbce14e2765e8b0943cb0cc17ba718a.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:04:59-debug: Unregister RoosterJumpEntry
+2023-9-1 16:04:59-debug: Unregister UI_Joystick
+2023-9-1 16:04:59-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:04:59-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js is not in module cache!
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:04:59-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js is not in module cache!
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:04:59-debug: 查询 Asset Bundle start0%
+2023-9-1 16:04:59-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:04:59-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:04:59-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 16:04:59-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:04:59-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:04:59-debug: // ---- build task 查询 Asset Bundle ---- (24ms)
+2023-9-1 16:04:59-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:04:59-debug: [Build Memory track]: 查询 Asset Bundle start:251.48MB, end 251.96MB, increase: 493.55KB
+2023-9-1 16:04:59-debug: 查询 Asset Bundle start5%
+2023-9-1 16:04:59-debug: run build task 查询 Asset Bundle success in 24 ms √5%
+2023-9-1 16:04:59-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:04:59-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2023-9-1 16:04:59-debug: [Build Memory track]: 查询 Asset Bundle start:251.97MB, end 252.01MB, increase: 45.12KB
+2023-9-1 16:04:59-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:04:59-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:04:59-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2023-9-1 16:04:59-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 16:04:59-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:04:59-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:252.02MB, end 252.04MB, increase: 18.35KB
+2023-9-1 16:04:59-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:04:59-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 16:04:59-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-9-1 16:04:59-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:04:59-debug: [Build Memory track]: 填充脚本数据到 settings.json start:252.05MB, end 252.06MB, increase: 12.99KB
+2023-9-1 16:04:59-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:04:59-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2023-9-1 16:04:59-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (4ms)
+2023-9-1 16:04:59-debug: run build task 整理部分构建选项内数据到 settings.json success in 4 ms √15%
+2023-9-1 16:04:59-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:252.07MB, end 252.13MB, increase: 57.72KB
+2023-9-1 16:05:27-debug: refresh db internal success
+2023-9-1 16:05:27-debug: refresh db assets success
+2023-9-1 16:05:27-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:05:27-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:05:27-debug: asset-db:refresh-all-database (62ms)
+2023-9-1 16:05:27-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:05:27-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:05:29-debug: start refresh asset from /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scene...
+2023-9-1 16:05:29-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scenebackground: #aaff85; color: #000;color: #000;
+2023-9-1 16:05:29-debug: refresh asset /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes success
+2023-9-1 16:05:30-debug: Query all assets info in project
+2023-9-1 16:05:30-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:05:30-debug:   Number of all scenes: 1
+2023-9-1 16:05:30-debug:   Number of all scripts: 9
+2023-9-1 16:05:30-debug:   Number of other assets: 406
+2023-9-1 16:05:30-debug: reload all scripts.
+2023-9-1 16:05:30-debug: Incremental keys: 
+2023-9-1 16:05:30-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:05:30-debug: Unregister FreeCamera
+2023-9-1 16:05:30-debug: Unregister ThirdPersonCamera
+2023-9-1 16:05:30-debug: Unregister UI_Joystick
+2023-9-1 16:05:30-debug: Unregister RoosterJumpEntry
+2023-9-1 16:05:30-debug: Unregister FullScreenCtrl
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 16:05:30-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:05:30-debug: Unregister DebugViewRuntimeControl
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:05:30-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:05:30-debug: 查询 Asset Bundle start0%
+2023-9-1 16:05:30-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:05:30-debug: Unregister CharacterMovement
+2023-9-1 16:05:30-debug: Unregister FPSCamera
+2023-9-1 16:05:30-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:05:30-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:05:30-debug: // ---- build task 查询 Asset Bundle ---- (25ms)
+2023-9-1 16:05:30-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:05:30-debug: [Build Memory track]: 查询 Asset Bundle start:253.97MB, end 254.62MB, increase: 671.95KB
+2023-9-1 16:05:30-debug: 查询 Asset Bundle start5%
+2023-9-1 16:05:30-debug: run build task 查询 Asset Bundle success in 25 ms √5%
+2023-9-1 16:05:30-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:05:30-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2023-9-1 16:05:30-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:05:30-debug: [Build Memory track]: 查询 Asset Bundle start:254.63MB, end 254.68MB, increase: 45.09KB
+2023-9-1 16:05:30-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:05:30-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2023-9-1 16:05:30-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 16:05:30-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:05:30-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:254.68MB, end 254.70MB, increase: 18.22KB
+2023-9-1 16:05:30-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:05:30-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 16:05:30-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2023-9-1 16:05:30-debug: [Build Memory track]: 填充脚本数据到 settings.json start:254.71MB, end 254.72MB, increase: 9.89KB
+2023-9-1 16:05:30-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:05:30-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:05:30-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (3ms)
+2023-9-1 16:05:30-debug: run build task 整理部分构建选项内数据到 settings.json success in 3 ms √15%
+2023-9-1 16:05:30-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:254.73MB, end 253.26MB, increase: -1509.77KB
+2023-9-1 16:06:18-debug: refresh db internal success
+2023-9-1 16:06:18-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/UI_Joystick.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 16:06:18-debug: refresh db assets success
+2023-9-1 16:06:18-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:06:18-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:06:18-debug: asset-db:refresh-all-database (56ms)
+2023-9-1 16:06:18-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:06:18-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:06:19-debug: Query all assets info in project
+2023-9-1 16:06:19-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:06:19-debug:   Number of all scenes: 1
+2023-9-1 16:06:19-debug:   Number of all scripts: 9
+2023-9-1 16:06:19-debug:   Number of other assets: 406
+2023-9-1 16:06:19-debug: reload all scripts.
+2023-9-1 16:06:19-debug: Incremental keys: 
+2023-9-1 16:06:19-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:06:19-debug: Unregister FreeCamera
+2023-9-1 16:06:19-debug: Unregister ThirdPersonCamera
+2023-9-1 16:06:19-debug: Unregister UI_Joystick
+2023-9-1 16:06:19-debug: Unregister RoosterJumpEntry
+2023-9-1 16:06:19-debug: Unregister FullScreenCtrl
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 16:06:19-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 16:06:19-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:06:19-debug: Unregister DebugViewRuntimeControl
+2023-9-1 16:06:19-debug: Unregister CharacterMovement
+2023-9-1 16:06:19-debug: Unregister FPSCamera
+2023-9-1 16:06:19-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js is not in module cache!
+2023-9-1 16:06:19-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:06:19-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:06:19-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:06:19-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:06:19-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:06:19-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:06:19-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:06:19-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:06:19-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:06:20-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:06:19-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:06:20-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:06:19-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:06:20-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js is not in module cache!
+2023-9-1 16:06:20-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:06:20-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:06:20-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:06:20-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:06:20-debug: 查询 Asset Bundle start0%
+2023-9-1 16:06:20-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:06:20-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:06:20-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 16:06:20-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:06:20-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:06:20-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:06:20-debug: // ---- build task 查询 Asset Bundle ---- (32ms)
+2023-9-1 16:06:20-debug: run build task 查询 Asset Bundle success in 32 ms √5%
+2023-9-1 16:06:20-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:06:20-debug: 查询 Asset Bundle start5%
+2023-9-1 16:06:20-debug: [Build Memory track]: 查询 Asset Bundle start:255.24MB, end 255.48MB, increase: 248.33KB
+2023-9-1 16:06:20-debug: run build task 查询 Asset Bundle success in 0 ms √10%
+2023-9-1 16:06:20-debug: [Build Memory track]: 查询 Asset Bundle start:255.49MB, end 255.50MB, increase: 12.37KB
+2023-9-1 16:06:20-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:06:20-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:06:20-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 16:06:20-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 16:06:20-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:255.51MB, end 255.53MB, increase: 13.43KB
+2023-9-1 16:06:20-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:06:20-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:06:20-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-9-1 16:06:20-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:06:20-debug: [Build Memory track]: 填充脚本数据到 settings.json start:255.53MB, end 255.55MB, increase: 12.96KB
+2023-9-1 16:06:20-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:06:20-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2023-9-1 16:06:20-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (3ms)
+2023-9-1 16:06:20-debug: run build task 整理部分构建选项内数据到 settings.json success in 3 ms √15%
+2023-9-1 16:06:20-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:255.56MB, end 255.84MB, increase: 295.60KB
+2023-9-1 16:07:46-debug: refresh db internal success
+2023-9-1 16:07:46-debug: refresh db assets success
+2023-9-1 16:07:46-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:07:46-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:07:46-debug: asset-db:refresh-all-database (50ms)
+2023-9-1 16:07:46-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:07:46-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:08:11-debug: refresh db internal success
+2023-9-1 16:08:11-debug: refresh db assets success
+2023-9-1 16:08:11-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:08:11-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:08:11-debug: asset-db:refresh-all-database (49ms)
+2023-9-1 16:08:11-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:08:11-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:08:23-debug: start refresh asset from /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scene...
+2023-9-1 16:08:23-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scenebackground: #aaff85; color: #000;color: #000;
+2023-9-1 16:08:23-debug: refresh asset /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes success
+2023-9-1 16:08:25-debug: Query all assets info in project
+2023-9-1 16:08:25-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:08:25-debug:   Number of all scenes: 1
+2023-9-1 16:08:25-debug:   Number of all scripts: 9
+2023-9-1 16:08:25-debug:   Number of other assets: 406
+2023-9-1 16:08:25-debug: reload all scripts.
+2023-9-1 16:08:25-debug: Incremental keys: 
+2023-9-1 16:08:25-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:08:25-debug: Unregister DebugViewRuntimeControl
+2023-9-1 16:08:25-debug: Unregister ThirdPersonCamera
+2023-9-1 16:08:25-debug: Unregister UI_Joystick
+2023-9-1 16:08:25-debug: Unregister RoosterJumpEntry
+2023-9-1 16:08:25-debug: Unregister FullScreenCtrl
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 16:08:25-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:08:25-debug: Unregister CharacterMovement
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:08:25-debug: 查询 Asset Bundle start0%
+2023-9-1 16:08:25-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:08:25-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:08:25-debug: Unregister FPSCamera
+2023-9-1 16:08:25-debug: Unregister FreeCamera
+2023-9-1 16:08:25-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:08:25-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:08:25-debug: 查询 Asset Bundle start5%
+2023-9-1 16:08:25-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:08:25-debug: [Build Memory track]: 查询 Asset Bundle start:258.27MB, end 259.12MB, increase: 867.38KB
+2023-9-1 16:08:25-debug: // ---- build task 查询 Asset Bundle ---- (28ms)
+2023-9-1 16:08:25-debug: run build task 查询 Asset Bundle success in 28 ms √5%
+2023-9-1 16:08:25-debug: // ---- build task 查询 Asset Bundle ---- (2ms)
+2023-9-1 16:08:25-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:08:25-debug: run build task 查询 Asset Bundle success in 2 ms √10%
+2023-9-1 16:08:25-debug: [Build Memory track]: 查询 Asset Bundle start:259.12MB, end 259.14MB, increase: 15.25KB
+2023-9-1 16:08:25-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:08:25-debug: run build task 整理部分构建选项内数据到 settings.json success in 0 ms √12%
+2023-9-1 16:08:25-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:259.15MB, end 259.16MB, increase: 11.46KB
+2023-9-1 16:08:25-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:08:25-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:08:25-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2023-9-1 16:08:25-debug: [Build Memory track]: 填充脚本数据到 settings.json start:259.17MB, end 259.18MB, increase: 9.90KB
+2023-9-1 16:08:25-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:08:25-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:08:25-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (3ms)
+2023-9-1 16:08:25-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:259.19MB, end 259.24MB, increase: 56.70KB
+2023-9-1 16:08:25-debug: run build task 整理部分构建选项内数据到 settings.json success in 3 ms √15%
+2023-9-1 16:08:29-debug: Query all assets info in project
+2023-9-1 16:08:29-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:08:29-debug:   Number of all scenes: 1
+2023-9-1 16:08:29-debug:   Number of all scripts: 9
+2023-9-1 16:08:29-debug:   Number of other assets: 406
+2023-9-1 16:08:29-debug: reload all scripts.
+2023-9-1 16:08:29-debug: Incremental keys: 
+2023-9-1 16:08:29-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:08:29-debug: Unregister DebugViewRuntimeControl
+2023-9-1 16:08:29-debug: Unregister CharacterMovement
+2023-9-1 16:08:29-debug: Unregister FPSCamera
+2023-9-1 16:08:29-debug: Unregister FreeCamera
+2023-9-1 16:08:29-debug: Unregister UI_Joystick
+2023-9-1 16:08:29-debug: Unregister FullScreenCtrl
+2023-9-1 16:08:29-debug: Unregister RoosterJumpEntry
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:08:29-debug: Unregister ThirdPersonCamera
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js'
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:08:29-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:08:29-debug: 查询 Asset Bundle start0%
+2023-9-1 16:08:29-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 16:08:29-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:08:29-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 16:08:29-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:08:29-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:08:29-debug: // ---- build task 查询 Asset Bundle ---- (29ms)
+2023-9-1 16:08:29-debug: [Build Memory track]: 查询 Asset Bundle start:260.71MB, end 259.49MB, increase: -1245.78KB
+2023-9-1 16:08:29-debug: run build task 查询 Asset Bundle success in 29 ms √5%
+2023-9-1 16:08:29-debug: 查询 Asset Bundle start5%
+2023-9-1 16:08:29-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:08:29-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2023-9-1 16:08:29-debug: [Build Memory track]: 查询 Asset Bundle start:259.50MB, end 259.51MB, increase: 15.04KB
+2023-9-1 16:08:29-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2023-9-1 16:08:29-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:08:29-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:08:29-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 16:08:29-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:259.52MB, end 259.54MB, increase: 13.85KB
+2023-9-1 16:08:29-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 16:08:29-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:08:29-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:08:29-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2023-9-1 16:08:29-debug: [Build Memory track]: 填充脚本数据到 settings.json start:259.55MB, end 259.56MB, increase: 10.57KB
+2023-9-1 16:08:29-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:08:29-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:08:29-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2023-9-1 16:08:29-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √15%
+2023-9-1 16:08:29-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:259.56MB, end 259.62MB, increase: 56.68KB
+2023-9-1 16:08:50-debug: refresh db internal success
+2023-9-1 16:08:50-debug: refresh db assets success
+2023-9-1 16:08:50-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:08:50-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:08:50-debug: asset-db:refresh-all-database (49ms)
+2023-9-1 16:08:50-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:08:50-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:10:42-debug: start refresh asset from /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scene...
+2023-9-1 16:10:42-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scenebackground: #aaff85; color: #000;color: #000;
+2023-9-1 16:10:42-debug: refresh asset /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes success
+2023-9-1 16:10:43-debug: Query all assets info in project
+2023-9-1 16:10:43-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:10:43-debug:   Number of all scenes: 1
+2023-9-1 16:10:43-debug:   Number of all scripts: 9
+2023-9-1 16:10:43-debug:   Number of other assets: 406
+2023-9-1 16:10:43-debug: reload all scripts.
+2023-9-1 16:10:43-debug: Incremental keys: 
+2023-9-1 16:10:43-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:10:43-debug: Unregister DebugViewRuntimeControl
+2023-9-1 16:10:43-debug: Unregister ThirdPersonCamera
+2023-9-1 16:10:43-debug: Unregister UI_Joystick
+2023-9-1 16:10:43-debug: Unregister RoosterJumpEntry
+2023-9-1 16:10:43-debug: Unregister FullScreenCtrl
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 16:10:43-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:10:43-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:10:43-debug: 查询 Asset Bundle start0%
+2023-9-1 16:10:43-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:10:43-debug: Unregister CharacterMovement
+2023-9-1 16:10:43-debug: Unregister FreeCamera
+2023-9-1 16:10:43-debug: Unregister FPSCamera
+2023-9-1 16:10:43-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:10:43-debug: // ---- build task 查询 Asset Bundle ---- (26ms)
+2023-9-1 16:10:43-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:10:43-debug: [Build Memory track]: 查询 Asset Bundle start:261.42MB, end 262.28MB, increase: 875.88KB
+2023-9-1 16:10:43-debug: 查询 Asset Bundle start5%
+2023-9-1 16:10:43-debug: run build task 查询 Asset Bundle success in 26 ms √5%
+2023-9-1 16:10:43-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:10:43-debug: run build task 查询 Asset Bundle success in 0 ms √10%
+2023-9-1 16:10:43-debug: [Build Memory track]: 查询 Asset Bundle start:262.29MB, end 262.34MB, increase: 49.74KB
+2023-9-1 16:10:43-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:10:43-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:10:43-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 16:10:43-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:262.35MB, end 261.57MB, increase: -795.79KB
+2023-9-1 16:10:43-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:10:43-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 16:10:43-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:10:43-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2023-9-1 16:10:43-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:10:43-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:10:43-debug: [Build Memory track]: 填充脚本数据到 settings.json start:261.58MB, end 261.59MB, increase: 10.51KB
+2023-9-1 16:10:43-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (3ms)
+2023-9-1 16:10:43-debug: run build task 整理部分构建选项内数据到 settings.json success in 3 ms √15%
+2023-9-1 16:10:43-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:261.60MB, end 261.65MB, increase: 56.68KB
+2023-9-1 16:11:37-debug: Query all assets info in project
+2023-9-1 16:11:37-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 16:11:37-debug:   Number of all scenes: 1
+2023-9-1 16:11:37-debug:   Number of all scripts: 9
+2023-9-1 16:11:37-debug:   Number of other assets: 406
+2023-9-1 16:11:37-debug: reload all scripts.
+2023-9-1 16:11:37-debug: Incremental keys: 
+2023-9-1 16:11:37-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 16:11:37-debug: Unregister FreeCamera
+2023-9-1 16:11:37-debug: Unregister ThirdPersonCamera
+2023-9-1 16:11:37-debug: Unregister UI_Joystick
+2023-9-1 16:11:37-debug: Unregister RoosterJumpEntry
+2023-9-1 16:11:37-debug: Unregister FullScreenCtrl
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 16:11:37-debug: Unregister DebugViewRuntimeControl
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 16:11:37-debug: Unregister CharacterMovement
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Register CharacterMovement
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Register FPSCamera
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 16:11:37-debug: Unregister FPSCamera
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Register UI_Joystick
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 16:11:37-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 16:11:37-debug: 查询 Asset Bundle start0%
+2023-9-1 16:11:37-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 16:11:37-debug: [[Executor]] Register FreeCamera
+2023-9-1 16:11:37-debug: Invalidating 'pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js'
+2023-9-1 16:11:37-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 16:11:37-debug: // ---- build task 查询 Asset Bundle ---- (26ms)
+2023-9-1 16:11:37-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 16:11:37-debug: run build task 查询 Asset Bundle success in 26 ms √5%
+2023-9-1 16:11:37-debug: [Build Memory track]: 查询 Asset Bundle start:263.74MB, end 263.46MB, increase: -285.71KB
+2023-9-1 16:11:37-debug: 查询 Asset Bundle start5%
+2023-9-1 16:11:37-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 16:11:37-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 16:11:37-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:11:37-debug: [Build Memory track]: 查询 Asset Bundle start:263.47MB, end 263.52MB, increase: 45.05KB
+2023-9-1 16:11:37-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2023-9-1 16:11:37-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2023-9-1 16:11:37-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 16:11:37-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 16:11:37-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:263.53MB, end 263.54MB, increase: 18.14KB
+2023-9-1 16:11:37-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 16:11:37-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 16:11:37-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-9-1 16:11:37-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 16:11:37-debug: [Build Memory track]: 填充脚本数据到 settings.json start:263.55MB, end 263.57MB, increase: 12.86KB
+2023-9-1 16:11:37-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 16:11:37-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2023-9-1 16:11:37-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2023-9-1 16:11:37-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √15%
+2023-9-1 16:11:37-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:263.57MB, end 263.63MB, increase: 57.36KB
+2023-9-1 16:11:39-debug: refresh db internal success
+2023-9-1 16:11:39-debug: refresh db assets success
+2023-9-1 16:11:39-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:11:39-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:11:39-debug: asset-db:refresh-all-database (42ms)
+2023-9-1 16:11:39-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:14:41-debug: refresh db internal success
+2023-9-1 16:14:41-debug: refresh db assets success
+2023-9-1 16:14:41-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:14:41-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:14:41-debug: asset-db:refresh-all-database (41ms)
+2023-9-1 16:14:41-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:14:41-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:17:27-debug: refresh db internal success
+2023-9-1 16:17:27-debug: refresh db assets success
+2023-9-1 16:17:27-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:17:27-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:17:27-debug: asset-db:refresh-all-database (40ms)
+2023-9-1 16:17:27-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:17:27-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:17:49-debug: refresh db internal success
+2023-9-1 16:17:49-debug: refresh db assets success
+2023-9-1 16:17:49-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:17:49-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:17:49-debug: asset-db:refresh-all-database (41ms)
+2023-9-1 16:17:49-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:17:49-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:18:45-debug: refresh db internal success
+2023-9-1 16:18:45-debug: refresh db assets success
+2023-9-1 16:18:45-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:18:45-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:18:45-debug: asset-db:refresh-all-database (43ms)
+2023-9-1 16:18:45-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:18:45-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:19:23-debug: refresh db internal success
+2023-9-1 16:19:23-debug: refresh db assets success
+2023-9-1 16:19:23-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:19:23-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:19:23-debug: asset-db:refresh-all-database (59ms)
+2023-9-1 16:19:23-debug: asset-db:worker-effect-data-processing (2ms)
+2023-9-1 16:19:23-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2023-9-1 16:29:19-debug: refresh db internal success
+2023-9-1 16:29:19-debug: refresh db assets success
+2023-9-1 16:29:19-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:29:19-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:29:19-debug: asset-db:refresh-all-database (43ms)
+2023-9-1 16:29:19-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:29:19-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:30:18-debug: refresh db internal success
+2023-9-1 16:30:18-debug: refresh db assets success
+2023-9-1 16:30:18-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:30:18-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:30:18-debug: asset-db:refresh-all-database (37ms)
+2023-9-1 16:30:18-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:30:18-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:48:19-debug: refresh db internal success
+2023-9-1 16:48:19-debug: refresh db assets success
+2023-9-1 16:48:19-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:48:19-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:48:19-debug: asset-db:refresh-all-database (37ms)
+2023-9-1 16:48:19-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:51:55-debug: refresh db internal success
+2023-9-1 16:51:55-debug: refresh db assets success
+2023-9-1 16:51:55-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:51:55-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:51:55-debug: asset-db:refresh-all-database (39ms)
+2023-9-1 16:51:55-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:52:32-debug: refresh db internal success
+2023-9-1 16:52:32-debug: refresh db assets success
+2023-9-1 16:52:32-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:52:32-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:52:32-debug: asset-db:refresh-all-database (37ms)
+2023-9-1 16:52:32-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:52:32-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 16:54:12-debug: refresh db internal success
+2023-9-1 16:54:12-debug: refresh db assets success
+2023-9-1 16:54:12-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 16:54:12-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 16:54:12-debug: asset-db:refresh-all-database (38ms)
+2023-9-1 16:54:12-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 16:54:12-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 17:01:53-debug: refresh db internal success
+2023-9-1 17:01:53-debug: refresh db assets success
+2023-9-1 17:01:53-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 17:01:53-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 17:01:53-debug: asset-db:refresh-all-database (39ms)
+2023-9-1 17:01:53-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 17:01:53-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 17:03:20-debug: refresh db internal success
+2023-9-1 17:03:20-debug: refresh db assets success
+2023-9-1 17:03:20-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 17:03:20-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 17:03:20-debug: asset-db:refresh-all-database (38ms)
+2023-9-1 17:03:20-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 17:05:27-debug: refresh db internal success
+2023-9-1 17:05:27-debug: refresh db assets success
+2023-9-1 17:05:27-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 17:05:27-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 17:05:27-debug: asset-db:refresh-all-database (42ms)
+2023-9-1 17:08:04-debug: refresh db internal success
+2023-9-1 17:08:04-debug: refresh db assets success
+2023-9-1 17:08:04-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 17:08:04-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 17:08:04-debug: asset-db:refresh-all-database (44ms)
+2023-9-1 17:08:04-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 17:09:03-debug: refresh db internal success
+2023-9-1 17:09:03-debug: refresh db assets success
+2023-9-1 17:09:03-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 17:09:03-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 17:09:03-debug: asset-db:refresh-all-database (49ms)
+2023-9-1 17:09:03-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 17:09:03-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 17:55:33-debug: refresh db internal success
+2023-9-1 17:55:33-debug: refresh db assets success
+2023-9-1 17:55:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 17:55:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 17:55:33-debug: asset-db:refresh-all-database (74ms)
+2023-9-1 17:55:33-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 17:55:33-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 17:58:38-debug: refresh db internal success
+2023-9-1 17:58:38-debug: refresh db assets success
+2023-9-1 17:58:38-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 17:58:38-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 17:58:38-debug: asset-db:refresh-all-database (44ms)
+2023-9-1 17:58:38-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 18:06:38-debug: refresh db internal success
+2023-9-1 18:06:38-debug: refresh db assets success
+2023-9-1 18:06:38-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 18:06:38-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 18:06:38-debug: asset-db:refresh-all-database (61ms)
+2023-9-1 18:06:38-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 18:06:38-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 18:08:34-debug: refresh db internal success
+2023-9-1 18:08:34-debug: refresh db assets success
+2023-9-1 18:08:34-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 18:08:34-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 18:08:34-debug: asset-db:refresh-all-database (37ms)
+2023-9-1 18:08:34-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 18:08:34-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 18:15:33-debug: refresh db internal success
+2023-9-1 18:15:33-debug: refresh db assets success
+2023-9-1 18:15:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 18:15:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 18:15:33-debug: asset-db:refresh-all-database (37ms)
+2023-9-1 18:15:49-debug: start refresh asset from /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scene...
+2023-9-1 18:15:49-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scenebackground: #aaff85; color: #000;color: #000;
+2023-9-1 18:15:49-debug: refresh asset /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes success

@@ -1,0 +1,53 @@
+{
+  "builder": {
+    "taskOptionsMap": {
+      "1667368353828": {
+        "orientation": "landscape",
+        "__version__": "1.0.0",
+        "embedWebDebugger": false
+      },
+      "1693275170958": {
+        "orientation": "landscape",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1693470933345": {
+        "orientation": "landscape",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.6",
+    "common": {
+      "outputName": "web-mobile",
+      "polyfills": {
+        "asyncFunctions": true
+      },
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "web-mobile",
+      "startScene": "bd3cd872-3d31-4eec-878b-fdb0948cbacd",
+      "scenes": [
+        {
+          "url": "db://assets/scenes/rooster_jump.scene",
+          "uuid": "0d6c75ac-8171-4aaa-a146-3d530a2632f9",
+          "inBundle": false
+        },
+        {
+          "url": "db://assets/scenes/test.scene",
+          "uuid": "bd3cd872-3d31-4eec-878b-fdb0948cbacd"
+        }
+      ],
+      "buildPath": "project://build",
+      "name": "BookCastle"
+    },
+    "options": {
+      "web-mobile": {
+        "orientation": "landscape",
+        "__version__": "1.0.1"
+      }
+    }
+  },
+  "__version__": "1.0.1"
+}

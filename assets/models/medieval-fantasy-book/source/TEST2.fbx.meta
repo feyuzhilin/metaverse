@@ -1,0 +1,372 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "16917": {
+      "importer": "texture",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@16917",
+      "displayName": "",
+      "id": "16917",
+      "name": "Texture-base-gloss-jpg.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/medieval-fantasy-book/textures/texture.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26843": {
+      "importer": "gltf-scene",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@26843",
+      "displayName": "",
+      "id": "26843",
+      "name": "TEST2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 50783
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96fb6": {
+      "importer": "gltf-mesh",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@96fb6",
+      "displayName": "",
+      "id": "96fb6",
+      "name": "Mill-wind-wheel.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 660
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "198b4": {
+      "importer": "gltf-mesh",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@198b4",
+      "displayName": "",
+      "id": "198b4",
+      "name": "Mill-water-wheel.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 1252
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "161f5": {
+      "importer": "gltf-mesh",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@161f5",
+      "displayName": "",
+      "id": "161f5",
+      "name": "flag.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 68
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b2be8": {
+      "importer": "gltf-mesh",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@b2be8",
+      "displayName": "",
+      "id": "b2be8",
+      "name": "flag-second.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 68
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f8e2": {
+      "importer": "gltf-mesh",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@2f8e2",
+      "displayName": "",
+      "id": "2f8e2",
+      "name": "Waterfall.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 193
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8975a": {
+      "importer": "gltf-mesh",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@8975a",
+      "displayName": "",
+      "id": "8975a",
+      "name": "deers.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 1764
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 10
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "7a143": {
+      "importer": "texture",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@7a143",
+      "displayName": "",
+      "id": "7a143",
+      "name": "Texture-base-jpg.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/medieval-fantasy-book/textures/texture.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4958": {
+      "importer": "texture",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@d4958",
+      "displayName": "",
+      "id": "d4958",
+      "name": "Map #9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/medieval-fantasy-book/textures/text_alpha.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0b4b": {
+      "importer": "gltf-material",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@d0b4b",
+      "displayName": "",
+      "id": "d0b4b",
+      "name": "Texture-base.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f185": {
+      "importer": "gltf-material",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@2f185",
+      "displayName": "",
+      "id": "2f185",
+      "name": "Texture-base-gloss-jpg.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "117c7": {
+      "importer": "gltf-material",
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4@117c7",
+      "displayName": "",
+      "id": "117c7",
+      "name": "Book-tittle.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Texture-base-jpg",
+        "uri": "db://assets/models/medieval-fantasy-book/textures/texture.jpg"
+      },
+      {
+        "name": "Texture-base-gloss-jpg",
+        "uri": "db://assets/models/medieval-fantasy-book/textures/texture.jpg"
+      },
+      {
+        "name": "Map #9",
+        "uri": "db://assets/models/medieval-fantasy-book/textures/text_alpha.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 10,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 10,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "a70acfaa-c6c8-4620-915d-fe8478102bf4@26843",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@a62fe",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@96fb6",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@198b4",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@161f5",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@b2be8",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@2f8e2",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@8975a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@7a143",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@16917",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@d4958"
+      ],
+      "materials": [
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@d0b4b",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@2f185",
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@117c7"
+      ],
+      "scenes": [
+        "a70acfaa-c6c8-4620-915d-fe8478102bf4@26843"
+      ]
+    }
+  }
+}

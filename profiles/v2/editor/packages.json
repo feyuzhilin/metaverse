@@ -1,0 +1,9 @@
+{
+  "disable-packages": {
+    "/Users/kylins/": {
+      "CocosCreator/builtin-extensions/3": {
+        "8": {}
+      }
+    }
+  }
+}

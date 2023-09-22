@@ -1,0 +1,22 @@
+[
+  {
+    "level": 0,
+    "message": "Frame rate: 30"
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 2.533333]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 2.533333]"
+  },
+  {
+    "level": 0,
+    "message": "Frame rate: 30"
+  },
+  {
+    "level": 0,
+    "message": "Take anim_rig_win: 2.533333333333333s"
+  }
+]

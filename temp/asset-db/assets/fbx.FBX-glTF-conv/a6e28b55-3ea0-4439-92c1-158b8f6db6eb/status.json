@@ -1,0 +1,19 @@
+{
+  "version": "2.3.8",
+  "sourceTimeStamp": 1693213034226.95,
+  "outputTimeStamps": {
+    "log.json": 1693213094000.9504,
+    "out.bin": 1693213093995.8867,
+    "out.gltf": 1693213094000.2224,
+    "tex_map0.png": 1693213093980.0862,
+    "tex_map0_bridge_wooden_1.png": 1693213093987.4478,
+    "tex_map0_flag.png": 1693213093988.7512,
+    ".fbm/AF5C1E5B/fbx_map0.fbm/tex_map0.png": 1693213093936.2336,
+    ".fbm/AF5C1E5B/fbx_map0.fbm/tex_map0_bridge_wooden_1.png": 1693213093938.9277,
+    ".fbm/AF5C1E5B/fbx_map0.fbm/tex_map0_flag.png": 1693213093941.4143
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": false
+  }
+}

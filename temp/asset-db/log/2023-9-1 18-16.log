@@ -1,0 +1,520 @@
+2023-9-1 18:16:12-log: Cannot access game frame or container.
+2023-9-1 18:16:13-debug: asset-db:require-engine-code (1506ms)
+2023-9-1 18:16:13-log: Cocos Creator v3.8.0
+2023-9-1 18:16:13-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:19.13MB, end 87.82MB, increase: 68.68MB
+2023-9-1 18:16:13-debug: [Assets Memory track]: asset-db-plugin-register: programming start:88.66MB, end 93.94MB, increase: 5.28MB
+2023-9-1 18:16:14-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:87.82MB, end 91.28MB, increase: 3.46MB
+2023-9-1 18:16:14-debug: asset-db:worker-init: initPlugin (369ms)
+2023-9-1 18:16:14-debug: [Assets Memory track]: asset-db:worker-init start:19.13MB, end 91.33MB, increase: 72.20MB
+2023-9-1 18:16:14-debug: Run asset db hook programming:beforePreStart ...
+2023-9-1 18:16:14-debug: Run asset db hook programming:beforePreStart success!
+2023-9-1 18:16:14-debug: Run asset db hook engine-extends:beforePreStart ...
+2023-9-1 18:16:14-debug: Run asset db hook engine-extends:beforePreStart success!
+2023-9-1 18:16:14-debug: asset-db:worker-init (2993ms)
+2023-9-1 18:16:14-debug: asset-db-hook-programming-beforePreStart (708ms)
+2023-9-1 18:16:14-debug: asset-db-hook-engine-extends-beforePreStart (709ms)
+2023-9-1 18:16:14-debug: Preimport db internal success
+2023-9-1 18:16:14-debug: Preimport db assets success
+2023-9-1 18:16:14-debug: Run asset db hook programming:afterPreStart ...
+2023-9-1 18:16:18-debug: run package(builder) handler(enable) start
+2023-9-1 18:16:26-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:110.15MB, end 277.75MB, increase: 167.60MB
+2023-9-1 18:16:26-debug: run package(builder) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(shortcuts) handler(enable) start
+2023-9-1 18:16:26-debug: run package(about) handler(enable) start
+2023-9-1 18:16:26-debug: run package(about) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(assets) handler(enable) start
+2023-9-1 18:16:26-debug: run package(assets) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(console) handler(enable) start
+2023-9-1 18:16:26-debug: run package(console) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(crash-reporter) handler(enable) start
+2023-9-1 18:16:26-debug: run package(crash-reporter) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(extension) handler(enable) start
+2023-9-1 18:16:26-debug: run package(extension) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(hierarchy) handler(enable) start
+2023-9-1 18:16:26-debug: run package(hierarchy) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(inspector) handler(enable) start
+2023-9-1 18:16:26-debug: run package(inspector) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(shortcuts) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(light-probe) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(lightmap) handler(enable) start
+2023-9-1 18:16:26-debug: run package(lightmap) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(node-library) handler(enable) start
+2023-9-1 18:16:26-debug: run package(node-library) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(package-asset) handler(enable) start
+2023-9-1 18:16:26-debug: run package(package-asset) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(process) handler(enable) start
+2023-9-1 18:16:26-debug: run package(process) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(reference-image) handler(enable) start
+2023-9-1 18:16:26-debug: run package(reference-image) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(reflection-probe) handler(enable) start
+2023-9-1 18:16:26-debug: run package(reflection-probe) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(engine-extends) handler(enable) start
+2023-9-1 18:16:26-debug: run package(engine-extends) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(animation-graph) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(alipay-mini-game) handler(enable) start
+2023-9-1 18:16:26-debug: run package(alipay-mini-game) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(adsense-h5g-plugin) handler(enable) start
+2023-9-1 18:16:26-debug: run package(animation-graph) handler(enable) start
+2023-9-1 18:16:26-debug: run package(bytedance-mini-game) handler(enable) start
+2023-9-1 18:16:26-debug: run package(bytedance-mini-game) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(certificate) handler(enable) start
+2023-9-1 18:16:26-debug: run package(certificate) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(channel-upload-tools) handler(enable) start
+2023-9-1 18:16:26-debug: run package(channel-upload-tools) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(android) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(fb-instant-games) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(huawei-agc) handler(enable) start
+2023-9-1 18:16:26-debug: run package(huawei-agc) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(huawei-quick-game) handler(enable) start
+2023-9-1 18:16:26-debug: run package(huawei-quick-game) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(ios) handler(enable) start
+2023-9-1 18:16:26-debug: run package(ios) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(linux) handler(enable) start
+2023-9-1 18:16:26-debug: run package(linux) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(mac) handler(enable) start
+2023-9-1 18:16:26-debug: run package(mac) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(native) handler(enable) start
+2023-9-1 18:16:26-debug: run package(native) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(light-probe) handler(enable) start
+2023-9-1 18:16:26-debug: run package(ohos) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(openharmony) handler(enable) start
+2023-9-1 18:16:26-debug: run package(openharmony) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(oppo-mini-game) handler(enable) start
+2023-9-1 18:16:26-debug: run package(oppo-mini-game) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(runtime-dev-tools) handler(enable) start
+2023-9-1 18:16:26-debug: run package(runtime-dev-tools) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(taobao-creative-app) handler(enable) start
+2023-9-1 18:16:26-debug: run package(taobao-creative-app) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(taobao-mini-game) handler(enable) start
+2023-9-1 18:16:26-debug: run package(taobao-mini-game) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(vivo-mini-game) handler(enable) start
+2023-9-1 18:16:26-debug: run package(vivo-mini-game) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(ohos) handler(enable) start
+2023-9-1 18:16:26-debug: run package(web-desktop) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(web-mobile) handler(enable) start
+2023-9-1 18:16:26-debug: run package(web-mobile) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(wechatgame) handler(enable) start
+2023-9-1 18:16:26-debug: run package(wechatgame) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(wechatprogram) handler(enable) start
+2023-9-1 18:16:26-debug: run package(wechatprogram) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(web-desktop) handler(enable) start
+2023-9-1 18:16:26-debug: run package(windows) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(android) handler(enable) start
+2023-9-1 18:16:26-debug: run package(xiaomi-quick-game) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(cocos-service) handler(enable) start
+2023-9-1 18:16:26-debug: run package(cocos-service) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(im-plugin) handler(enable) start
+2023-9-1 18:16:26-debug: run package(im-plugin) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(prefab380fix) handler(enable) start
+2023-9-1 18:16:26-debug: run package(prefab380fix) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(placeholder) handler(enable) start
+2023-9-1 18:16:26-debug: run package(placeholder) handler(enable) success!
+2023-9-1 18:16:26-debug: run package(xiaomi-quick-game) handler(enable) start
+2023-9-1 18:16:26-debug: run package(fb-instant-games) handler(enable) start
+2023-9-1 18:16:26-debug: run package(windows) handler(enable) start
+2023-9-1 18:16:26-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 18:16:26-debug: Run asset db hook engine-extends:afterPreStart success!
+2023-9-1 18:16:26-debug: Start up the 'internal' database...
+2023-9-1 18:16:26-debug: Run asset db hook programming:afterPreStart success!
+2023-9-1 18:16:26-debug: [Assets Memory track]: asset-db:worker-init: preStart start:91.33MB, end 279.50MB, increase: 188.17MB
+2023-9-1 18:16:26-debug: Run asset db hook engine-extends:afterPreStart ...
+2023-9-1 18:16:26-debug: asset-db-hook-programming-afterPreStart (11955ms)
+2023-9-1 18:16:26-debug: asset-db:worker-effect-data-processing (43ms)
+2023-9-1 18:16:26-debug: asset-db-hook-engine-extends-afterPreStart (43ms)
+2023-9-1 18:16:26-debug: start asset-db with asset: 466
+2023-9-1 18:16:26-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:109.20MB, end 282.61MB, increase: 173.41MB
+2023-9-1 18:16:26-debug: Start up the 'assets' database...
+2023-9-1 18:16:26-debug: asset-db:worker-startup-database[internal] (12129ms)
+2023-9-1 18:16:26-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scenebackground: #aaff85; color: #000;color: #000;
+2023-9-1 18:16:26-debug: start asset-db with asset: 46
+2023-9-1 18:16:26-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:109.20MB, end 278.26MB, increase: 169.06MB
+2023-9-1 18:16:26-debug: asset-db:worker-startup-database[assets] (12028ms)
+2023-9-1 18:16:26-debug: asset-db:start-database (12757ms)
+2023-9-1 18:16:26-debug: asset-db:ready (18717ms)
+2023-9-1 18:16:26-debug: init worker message success
+2023-9-1 18:16:26-debug: programming:execute-script (7ms)
+2023-9-1 18:16:27-debug: [Build Memory track]: builder:worker-init start:280.37MB, end 294.18MB, increase: 13.81MB
+2023-9-1 18:16:27-debug: builder:worker-init (608ms)
+2023-9-1 18:16:28-debug: programming:execute-script (5ms)
+2023-9-1 18:16:40-debug: Query all assets info in project
+2023-9-1 18:16:40-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 18:16:41-debug:   Number of all scenes: 1
+2023-9-1 18:16:41-debug:   Number of other assets: 406
+2023-9-1 18:16:41-debug:   Number of all scripts: 9
+2023-9-1 18:16:41-debug: reload all scripts.
+2023-9-1 18:16:41-debug: Incremental keys: 
+2023-9-1 18:16:41-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 18:16:41-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js is not in module cache!
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Register CharacterMovement
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Register FPSCamera
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Register FreeCamera
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Register UI_Joystick
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js is not in module cache!
+2023-9-1 18:16:41-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 18:16:41-debug: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js resolved to /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/programming/packer-driver/targets/editor/chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js is not in module cache!
+2023-9-1 18:16:41-debug: 查询 Asset Bundle start0%
+2023-9-1 18:16:41-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 18:16:41-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 18:16:41-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 18:16:41-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 18:16:41-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 18:16:41-debug: // ---- build task 查询 Asset Bundle ---- (40ms)
+2023-9-1 18:16:41-debug: run build task 查询 Asset Bundle success in 40 ms √5%
+2023-9-1 18:16:41-debug: [Build Memory track]: 查询 Asset Bundle start:245.35MB, end 246.32MB, increase: 993.05KB
+2023-9-1 18:16:41-debug: 查询 Asset Bundle start5%
+2023-9-1 18:16:41-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 18:16:41-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2023-9-1 18:16:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 18:16:41-debug: [Build Memory track]: 查询 Asset Bundle start:246.33MB, end 246.42MB, increase: 89.28KB
+2023-9-1 18:16:41-debug: 整理部分构建选项内数据到 settings.json start10%
+2023-9-1 18:16:41-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2023-9-1 18:16:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2023-9-1 18:16:41-debug: 填充脚本数据到 settings.json start12%
+2023-9-1 18:16:41-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:246.43MB, end 246.44MB, increase: 14.67KB
+2023-9-1 18:16:41-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2023-9-1 18:16:41-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 18:16:41-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-9-1 18:16:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 18:16:41-debug: [Build Memory track]: 填充脚本数据到 settings.json start:246.45MB, end 246.46MB, increase: 13.38KB
+2023-9-1 18:16:41-debug: 整理部分构建选项内数据到 settings.json start13%
+2023-9-1 18:16:41-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2023-9-1 18:16:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (5ms)
+2023-9-1 18:16:41-debug: run build task 整理部分构建选项内数据到 settings.json success in 5 ms √15%
+2023-9-1 18:16:41-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:246.47MB, end 246.53MB, increase: 61.13KB
+2023-9-1 18:17:09-debug: refresh db internal success
+2023-9-1 18:17:09-debug: refresh db assets success
+2023-9-1 18:17:09-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 18:17:09-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 18:17:09-debug: asset-db:refresh-all-database (85ms)
+2023-9-1 18:17:09-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 18:17:17-debug: Start record console... {file(/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/builder/log/web-mobile8-31-2023 16-35.log)}
+2023-9-1 18:17:17-debug: Build with Cocos Creator 3.8.0
+2023-9-1 18:17:17-debug: cocos-service:(onBeforeBuild) start...0%
+2023-9-1 18:17:17-debug: // ---- build task cocos-service：onBeforeBuild ----
+2023-9-1 18:17:17-debug: Start build task, options:{"name":"BookCastle","server":"","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":true},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[],"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"0d6c75ac-8171-4aaa-a146-3d530a2632f9","outputName":"web-mobile","taskName":"web-mobile","scenes":[{"url":"db://assets/scenes/rooster_jump.scene","uuid":"0d6c75ac-8171-4aaa-a146-3d530a2632f9"}],"packages":{"engine":{"cleanupImageCache":"inheritProjectSetting","__version__":"1.0.7"},"web-mobile":{"orientation":"landscape","embedWebDebugger":false,"cullEngineAsmJsModule":false,"__version__":"1.0.1"},"cocos-service":{"configID":"b46224","services":[],"__version__":"3.0.7"}},"__version__":"1.3.6","buildMode":"normal","logDest":"project://temp/builder/log/web-mobile8-31-2023 16-35.log"}
+2023-9-1 18:17:17-debug: =================================== build Task (web-mobile) Start ================================
+2023-9-1 18:17:18-debug: // ---- build task cocos-service：onBeforeBuild ---- (577ms)
+2023-9-1 18:17:18-debug: // ---- build task scene：onBeforeBuild ----
+2023-9-1 18:17:18-debug: scene:(onBeforeBuild) start...2%
+2023-9-1 18:17:18-debug: cocos-service:(onBeforeBuild) in 577 ms ✓2%
+2023-9-1 18:17:18-debug: // ---- build task scene：onBeforeBuild ---- (15ms)
+2023-9-1 18:17:18-debug: scene:(onBeforeBuild) in 15 ms ✓4%
+2023-9-1 18:17:18-debug: Start lock asset db...4%
+2023-9-1 18:17:18-log: Asset DB is paused with build!
+2023-9-1 18:17:18-debug: Query all assets info in project
+2023-9-1 18:17:18-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-1 18:17:18-debug:   Number of all scenes: 1
+2023-9-1 18:17:18-debug: web-mobile:(onAfterInit) start...4%
+2023-9-1 18:17:18-debug:   Number of other assets: 406
+2023-9-1 18:17:18-debug:   Number of all scripts: 9
+2023-9-1 18:17:18-debug: // ---- build task web-mobile：onAfterInit ----
+2023-9-1 18:17:18-debug: // ---- build task web-mobile：onAfterInit ---- (39ms)
+2023-9-1 18:17:18-debug: web-mobile:(onAfterInit) in 39 ms ✓7%
+2023-9-1 18:17:18-debug: // ---- build task cocos-service：onAfterInit ----
+2023-9-1 18:17:18-debug: cocos-service:(onAfterInit) start...7%
+2023-9-1 18:17:18-debug: // ---- build task cocos-service：onAfterInit ---- (523ms)
+2023-9-1 18:17:18-debug: engine:(onAfterInit) start...9%
+2023-9-1 18:17:18-debug: // ---- build task engine：onAfterInit ----
+2023-9-1 18:17:18-debug: cocos-service:(onAfterInit) in 523 ms ✓9%
+2023-9-1 18:17:18-debug: // ---- build task engine：onAfterInit ---- (12ms)
+2023-9-1 18:17:18-debug: engine:(onAfterInit) in 12 ms ✓11%
+2023-9-1 18:17:18-debug: reload all scripts.
+2023-9-1 18:17:18-debug: Incremental keys: 
+2023-9-1 18:17:18-debug: Init all bundles start...11%
+2023-9-1 18:17:18-debug: Num of bundles: 2...11%
+2023-9-1 18:17:18-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 18:17:18-debug: Unregister DebugViewRuntimeControl
+2023-9-1 18:17:18-debug: Unregister CharacterMovement
+2023-9-1 18:17:18-debug: Unregister FPSCamera
+2023-9-1 18:17:18-debug: Unregister FreeCamera
+2023-9-1 18:17:18-debug: Unregister ThirdPersonCamera
+2023-9-1 18:17:18-debug: Unregister UI_Joystick
+2023-9-1 18:17:18-debug: Unregister RoosterJumpEntry
+2023-9-1 18:17:18-debug: Unregister FullScreenCtrl
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js'
+2023-9-1 18:17:18-debug: Invalidating 'pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js'
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/ee/ee6632d18ce62618dc91281a69c150f73525908f.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Register CharacterMovement
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/9e/9ea7cbff7bbef085673a65fc8d4e8c2083126c2d.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Register FPSCamera
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/09/0996deb27d7bf9def708c35bc853625470b5ab10.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Register FreeCamera
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/b5/b5124ff3c69f47f3cf61f952cd9e0198f0e80206.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Register ThirdPersonCamera
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/4e/4e9495348266c9c7bb44d20674769f6d887f2377.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Register UI_Joystick
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/b2/b2758e4de9abd23636f69024eae2c984216c22f4.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Register RoosterJumpEntry
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/0b/0bc052d0f7dc23418c80ada5ed69bc30253e8bdb.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Register FullScreenCtrl
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/6a/6ac04061e2bd1f9f1fa069312f3baa826036d131.js" loaded.
+2023-9-1 18:17:18-debug: [[Executor]] Module "pack:///chunks/74/7445ff4758084772bd924d4fde9f2179dae8a9aa.js" loaded.
+2023-9-1 18:17:18-debug: // ---- build task web-mobile：onAfterBundleInit ----
+2023-9-1 18:17:18-debug: web-mobile:(onAfterBundleInit) start...11%
+2023-9-1 18:17:18-debug: // ---- build task web-mobile：onAfterBundleInit ---- (6ms)
+2023-9-1 18:17:18-debug: 查询 Asset Bundle start11%
+2023-9-1 18:17:18-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 18:17:18-debug: web-mobile:(onAfterBundleInit) in 6 ms ✓11%
+2023-9-1 18:17:18-debug: Init bundle root assets start...11%
+2023-9-1 18:17:18-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-1 18:17:18-debug: Init bundle root assets success...11%
+2023-9-1 18:17:18-debug: Init bundle share assets start...11%
+2023-9-1 18:17:18-debug: Init bundle share assets success...11%
+2023-9-1 18:17:18-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 18:17:18-debug: handle json group in bundle internal
+2023-9-1 18:17:18-debug: handle json group in bundle main
+2023-9-1 18:17:18-debug: handle json group in bundle main success
+2023-9-1 18:17:18-debug: init image compress task 0 in bundle main
+2023-9-1 18:17:18-debug: handle json group in bundle internal success
+2023-9-1 18:17:18-debug: init image compress task 0 in bundle internal
+2023-9-1 18:17:18-debug: // ---- build task 查询 Asset Bundle ---- (60ms)
+2023-9-1 18:17:18-debug: 查询 Asset Bundle start16%
+2023-9-1 18:17:18-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 18:17:18-debug: [Build Memory track]: 查询 Asset Bundle start:250.39MB, end 250.90MB, increase: 526.70KB
+2023-9-1 18:17:18-debug: run build task 查询 Asset Bundle success in 60 ms √16%
+2023-9-1 18:17:18-debug: // ---- build task 查询 Asset Bundle ---- (13ms)
+2023-9-1 18:17:18-debug: run build task 查询 Asset Bundle success in 13 ms √21%
+2023-9-1 18:17:18-debug: web-mobile:(onAfterBundleDataTask) start...21%
+2023-9-1 18:17:18-debug: // ---- build task web-mobile：onAfterBundleDataTask ----
+2023-9-1 18:17:18-debug: [Build Memory track]: 查询 Asset Bundle start:250.92MB, end 250.97MB, increase: 56.16KB
+2023-9-1 18:17:18-debug: 打包脚本 start21%
+2023-9-1 18:17:18-debug: // ---- build task 打包脚本 ----
+2023-9-1 18:17:18-debug: web-mobile:(onAfterBundleDataTask) in 12 ms ✓21%
+2023-9-1 18:17:18-debug: // ---- build task web-mobile：onAfterBundleDataTask ---- (12ms)
+2023-9-1 18:18:32-debug: Build script in bundle start21%
+2023-9-1 18:18:36-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2023-9-1 18:18:36-log: [build-script]enter sub process 10932, /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+2023-9-1 18:18:47-debug: excute-script over with build-script 11788ms
+2023-9-1 18:18:47-debug: Build script in bundle success21%
+2023-9-1 18:18:47-debug: Copy externalScripts success!
+2023-9-1 18:18:50-log: Run build task(build-engine) in child, see: chrome://inspect/#devices
+2023-9-1 18:18:47-debug: Engine cache ({link(/var/folders/rm/54hmxbrd22xg_vp8jypdcjx40000gn/T/CocosCreator/3.8.0/builder/engine/0d35875fe2c94a1f28d435d0cb8768f3)}) does not exist.
+2023-9-1 18:18:51-log: [build-engine]enter sub process 10952, /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+2023-9-1 18:18:55-log: [build-engine]Module source "internal-constants":function tryDefineGlobal (name, value) {    const _global = typeof window === 'undefined' ? global : window;    if (typeof _global[name] === 'undefined') {        return (_global[name] = value);    } else {        // eslint-disable-next-line @typescript-eslint/no-unsafe-return        return _global[name];    }}export const HTML5 = true;export const NATIVE = false;export const ANDROID = false;export const IOS = false;export const MAC = false;export const WINDOWS = false;export const LINUX = false;export const OHOS = false;export const OPEN_HARMONY = false;export const WECHAT = false;tryDefineGlobal('CC_WECHAT', false);export const WECHAT_MINI_PROGRAM = false;export const BAIDU = false;tryDefineGlobal('CC_BAIDU', false);export const XIAOMI = false;tryDefineGlobal('CC_XIAOMI', false);export const ALIPAY = false;tryDefineGlobal('CC_ALIPAY', false);export const TAOBAO = false;export const TAOBAO_MINIGAME = false;export const BYTEDANCE = false;tryDefineGlobal('CC_BYTEDANCE', false);export const OPPO = false;tryDefineGlobal('CC_OPPO', false);export const VIVO = false;tryDefineGlobal('CC_VIVO', false);export const HUAWEI = false;tryDefineGlobal('CC_HUAWEI', false);export const COCOSPLAY = false;tryDefineGlobal('CC_COCOSPLAY', false);export const QTT = false;tryDefineGlobal('CC_QTT', false);export const LINKSURE = false;tryDefineGlobal('CC_LINKSURE', false);export const EDITOR = false;tryDefineGlobal('CC_EDITOR', false);export const EDITOR_NOT_IN_PREVIEW = false;export const PREVIEW = false;tryDefineGlobal('CC_PREVIEW', false);export const BUILD = true;tryDefineGlobal('CC_BUILD', true);export const TEST = false;tryDefineGlobal('CC_TEST', false);export const DEBUG = false;tryDefineGlobal('CC_DEBUG', false);export const SERVER_MODE = false;export const DEV = false;tryDefineGlobal('CC_DEV', false);export const MINIGAME = false;tryDefineGlobal('CC_MINIGAME', false);export const RUNTIME_BASED = false;tryDefineGlobal('CC_RUNTIME_BASED', false);export const SUPPORT_JIT = true;tryDefineGlobal('CC_SUPPORT_JIT', true);export const JSB = false;tryDefineGlobal('CC_JSB', false);export const NOT_PACK_PHYSX_LIBS = false;export const NET_MODE = 0;export const WEBGPU = false;export const WASM_SUPPORT_MODE = 2;export const FORCE_BANNING_BULLET_WASM = false;export const CULL_ASM_JS_MODULE = false;export const WASM_FALLBACK = true;export const WASM_SUBPACKAGE = false;
+2023-9-1 18:18:55-log: [build-engine]Module source "cc":export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/2d.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/sorting.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/3d.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/animation.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/audio.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/base.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/dragon-bones.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/gfx-webgl.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/gfx-webgl2.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/intersection-2d.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/light-probe.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/particle.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/particle-2d.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-2d-box2d.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-2d-framework.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-ammo.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-framework.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/wait-for-ammo-instantiation.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/primitive.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/profiler.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/skeletal-animation.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/spine.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/terrain.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/tiled-map.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/tween.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/ui.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/video.ts';export * from '/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/webview.ts';
+2023-9-1 18:18:56-log: [build-engine]Redirect module pal/wasm to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/wasm/wasm-web.ts
+2023-9-1 18:18:56-log: [build-engine]Redirect module internal:native to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/native-binding/impl.ts
+2023-9-1 18:18:58-log: [build-engine]Redirect module pal/system-info to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/system-info/web/system-info.ts
+2023-9-1 18:19:00-log: [build-engine]Redirect module pal/screen-adapter to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/screen-adapter/web/screen-adapter.ts
+2023-9-1 18:19:16-log: [build-engine]Redirect module pal/input to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/input/web/index.ts
+2023-9-1 18:19:17-log: [build-engine]Redirect module pal/env to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/env/web/env.ts
+2023-9-1 18:19:17-log: [build-engine]Redirect module pal/pacer to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/pacer/pacer-web.ts
+2023-9-1 18:19:17-log: [build-engine]Redirect module pal/audio to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/audio/web/player.ts
+2023-9-1 18:19:18-log: [build-engine]Redirect module pal/minigame to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/minigame/non-minigame.ts
+2023-9-1 18:19:21-log: [build-engine]Redirect module /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/2d/renderer/native-2d.ts to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/2d/renderer/native-2d-empty.ts
+2023-9-1 18:19:23-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/node_modules/@cocos/dragonbones-js/out/dragonBones.js
+2023-9-1 18:19:23-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/node_modules/@cocos/dragonbones-js/out/dragonBones.js
+2023-9-1 18:19:31-log: [build-engine]Redirect module /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/animation/marionette/pose-graph/runtime-exports.ts to /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/animation/marionette/pose-graph/runtime-exports-empty.ts
+2023-9-1 18:19:50-log: [build-engine]==== Performance ===={"# BUILD":[55889.63277500123,593616096,693250284],"## generate module graph":[49646.19370799884,601635992,701275600],"- plugin 0 (@cocos/ccbuild|external-loader) - resolveId":[436.900577891618,5164376,705710404],"- plugin 0 (@cocos/ccbuild|external-loader) - resolveId (async)":[1802.6718848496675,-63386536,705711512],"- plugin 1 (@cocos/ccbuild|module-overrides) - resolveId":[373.7255679629743,985008,705713772],"- plugin 2 (virtual) - resolveId":[415.0233402810991,1691604,705724544],"load modules":[199858.32488513365,4267742156,704610388],"- plugin 0 (@cocos/ccbuild|external-loader) - load":[88.35388498753309,990464,702410068],"- plugin 0 (@cocos/ccbuild|external-loader) - load (async)":[1932.6804739683867,111754512,702410564],"- plugin 1 (@cocos/ccbuild|module-overrides) - load":[72.41165892779827,180636,702411008],"- plugin 2 (virtual) - load":[69.55644205585122,151956,702411404],"- plugin 5 (json) - transform":[80.73355806618929,768136,704613824],"- plugin 6 (commonjs) - transform":[1806.5932950563729,29605872,704617044],"- plugin 7 (babel) - transform":[392.3001109585166,-146408752,704645376],"generate ast":[1500.1824800297618,96999004,705616256],"analyse ast":[3243.053500007838,249752580,705690696],"- plugin 3 (ts-paths) - resolveId":[328.89887799695134,-4199912,705726604],"- plugin 4 (node-resolve) - resolveId":[405.01813995465636,3228440,705742988],"- plugin 4 (node-resolve) - resolveId (async)":[37950.81344295293,-260444336,705743436],"- plugin 4 (node-resolve) - load":[70.87600701674819,126520,702411808],"- plugin 6 (commonjs) - load":[78.84285201877356,166740,702412252],"- plugin 7 (babel) - load":[377.58394703641534,10425372,702412648],"- plugin 7 (babel) - transform (async)":[35925.39155792445,575746016,705592440],"- plugin 6 (commonjs) - resolveId":[56.76260906457901,104904,705755092],"- plugin 7 (babel) - resolveId":[58.220390040427446,75656,705755496],"- plugin 6 (commonjs) - resolveId (async)":[7554.229830998927,192259576,676258252],"- plugin 6 (commonjs) - load (async)":[8711.98044699803,35313152,579957548],"## sort modules":[474.9982019998133,17384956,718660860],"## mark included statements":[5767.196736998856,-25412368,693248736],"treeshaking pass 1":[1537.4705010019243,64580780,783745860],"treeshaking pass 2":[897.5306489989161,13941156,797687260],"treeshaking pass 3":[702.4760180003941,-111336252,686351252],"treeshaking pass 4":[225.1592920012772,-1050900,685300596],"treeshaking pass 5":[260.05795599892735,4612808,689913648],"treeshaking pass 6":[860.4271660000086,5388884,695302776],"treeshaking pass 7":[298.78799000009894,-3031484,692271536],"treeshaking pass 8":[227.9761169999838,5321876,697593656],"treeshaking pass 9":[193.01183499768376,-2793432,694800468],"treeshaking pass 10":[185.96010399982333,2729820,697530532],"treeshaking pass 11":[187.03627299889922,-6078004,691452772],"treeshaking pass 12":[184.33391500264406,1793304,693246320]}
+2023-9-1 18:19:50-log: [build-engine]====             ====
+2023-9-1 18:20:32-debug: excute-script over with build-engine 101776ms
+2023-9-1 18:20:32-debug: // ---- build task 打包脚本 ---- (193507ms)
+2023-9-1 18:20:32-debug: [Build Memory track]: 打包脚本 start:251.12MB, end 292.36MB, increase: 41.24MB
+2023-9-1 18:20:32-debug: Build Assets start26%
+2023-9-1 18:20:32-debug: // ---- build task Build Assets ----
+2023-9-1 18:20:32-debug: Pack Images start26%
+2023-9-1 18:20:32-debug: run build task 打包脚本 success in 193507 ms √26%
+2023-9-1 18:20:32-debug: Pack Images success26%
+2023-9-1 18:20:32-debug: Num of image compress task 0
+2023-9-1 18:20:32-debug: Ouput asset in bundles start26%
+2023-9-1 18:20:32-debug: Handle all json groups in bundle internal
+2023-9-1 18:20:32-debug: No image need to compress
+2023-9-1 18:20:32-debug: builder:pack-auto-atlas-image (33ms)
+2023-9-1 18:20:32-debug: handle json group
+2023-9-1 18:20:32-debug: Handle all json groups in bundle main
+2023-9-1 18:20:32-debug: handle json group
+2023-9-1 18:20:32-debug: Compress image start...26%
+2023-9-1 18:20:32-debug: Compress image success...26%
+2023-9-1 18:20:32-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 18:20:32-debug: Json group(0b2bbb7a0) compile success，json number: 6
+2023-9-1 18:20:32-debug: handle single json
+2023-9-1 18:20:32-debug: Json group(02ee37846) compile success，json number: 6
+2023-9-1 18:20:32-debug: handle single json
+2023-9-1 18:20:33-debug: Output asset in bundles success26%
+2023-9-1 18:20:33-debug: // ---- build task Build Assets ---- (772ms)
+2023-9-1 18:20:33-debug: [Build Memory track]: Build Assets start:292.37MB, end 314.21MB, increase: 21.83MB
+2023-9-1 18:20:33-debug: 给所有的资源加上 MD5 后缀 start31%
+2023-9-1 18:20:33-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2023-9-1 18:20:33-debug: run build task Build Assets success in 772 ms √31%
+2023-9-1 18:20:33-debug: // ---- build task 给所有的资源加上 MD5 后缀 ---- (17ms)
+2023-9-1 18:20:33-debug: run build task 给所有的资源加上 MD5 后缀 success in 17 ms √36%
+2023-9-1 18:20:33-debug: [Build Memory track]: 给所有的资源加上 MD5 后缀 start:314.27MB, end 314.32MB, increase: 51.32KB
+2023-9-1 18:20:33-debug: 查询 Asset Bundle start36%
+2023-9-1 18:20:33-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-1 18:20:33-debug: Output asset in bundles start36%
+2023-9-1 18:20:33-debug: compress config of bundle internal...
+2023-9-1 18:20:33-debug: compress config of bundle internal success
+2023-9-1 18:20:33-debug: ouput config of bundle internal
+2023-9-1 18:20:33-debug: output config of bundle internal success
+2023-9-1 18:20:33-debug: compress config of bundle main...
+2023-9-1 18:20:33-debug: compress config of bundle main success
+2023-9-1 18:20:33-debug: ouput config of bundle main
+2023-9-1 18:20:33-debug: output config of bundle main success
+2023-9-1 18:20:33-debug: Output asset in bundles success36%
+2023-9-1 18:20:33-debug: // ---- build task 查询 Asset Bundle ---- (110ms)
+2023-9-1 18:20:33-debug: run build task 查询 Asset Bundle success in 110 ms √41%
+2023-9-1 18:20:33-debug: [Build Memory track]: 查询 Asset Bundle start:314.34MB, end 314.67MB, increase: 341.01KB
+2023-9-1 18:20:33-debug: 整理部分构建选项内数据到 settings.json start41%
+2023-9-1 18:20:33-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 18:20:33-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (15ms)
+2023-9-1 18:20:33-debug: run build task 整理部分构建选项内数据到 settings.json success in 15 ms √43%
+2023-9-1 18:20:33-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:314.68MB, end 249.18MB, increase: -67074.43KB
+2023-9-1 18:20:33-debug: 填充脚本数据到 settings.json start43%
+2023-9-1 18:20:33-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-1 18:20:33-debug: // ---- build task 填充脚本数据到 settings.json ---- (13ms)
+2023-9-1 18:20:33-debug: 整理部分构建选项内数据到 settings.json start44%
+2023-9-1 18:20:33-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-1 18:20:33-debug: run build task 填充脚本数据到 settings.json success in 13 ms √44%
+2023-9-1 18:20:33-debug: [Build Memory track]: 填充脚本数据到 settings.json start:249.20MB, end 249.25MB, increase: 56.99KB
+2023-9-1 18:20:33-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (21ms)
+2023-9-1 18:20:33-debug: run build task 整理部分构建选项内数据到 settings.json success in 21 ms √46%
+2023-9-1 18:20:33-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:249.27MB, end 249.36MB, increase: 96.69KB
+2023-9-1 18:20:33-debug: web-mobile:(onBeforeCompressSettings) start...46%
+2023-9-1 18:20:33-debug: // ---- build task web-mobile：onBeforeCompressSettings ----
+2023-9-1 18:20:33-debug: // ---- build task web-mobile：onBeforeCompressSettings ---- (13ms)
+2023-9-1 18:20:33-debug: cocos-service:(onBeforeCompressSettings) start...48%
+2023-9-1 18:20:33-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2023-9-1 18:20:33-debug: web-mobile:(onBeforeCompressSettings) in 13 ms ✓48%
+2023-9-1 18:20:34-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (805ms)
+2023-9-1 18:20:34-debug: 保存 settings.json start51%
+2023-9-1 18:20:34-debug: // ---- build task 保存 settings.json ----
+2023-9-1 18:20:34-debug: cocos-service:(onBeforeCompressSettings) in 805 ms ✓51%
+2023-9-1 18:20:34-debug: // ---- build task 保存 settings.json ---- (13ms)
+2023-9-1 18:20:34-debug: 整理静态模板文件 start53%
+2023-9-1 18:20:34-debug: // ---- build task 整理静态模板文件 ----
+2023-9-1 18:20:34-debug: [Build Memory track]: 保存 settings.json start:249.53MB, end 249.66MB, increase: 137.41KB
+2023-9-1 18:20:34-debug: run build task 保存 settings.json success in 13 ms √53%
+2023-9-1 18:20:34-debug: run build task 整理静态模板文件 success in 63 ms √56%
+2023-9-1 18:20:34-debug: cocos-service:(onAfterCompressSettings) start...56%
+2023-9-1 18:20:34-debug: // ---- build task 整理静态模板文件 ---- (63ms)
+2023-9-1 18:20:34-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2023-9-1 18:20:34-debug: [Build Memory track]: 整理静态模板文件 start:249.68MB, end 252.81MB, increase: 3.13MB
+2023-9-1 18:20:34-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (498ms)
+2023-9-1 18:20:34-debug: web-mobile:(onAfterBuild) start...58%
+2023-9-1 18:20:34-debug: // ---- build task web-mobile：onAfterBuild ----
+2023-9-1 18:20:34-debug: cocos-service:(onAfterCompressSettings) in 498 ms ✓58%
+2023-9-1 18:20:34-debug: // ---- build task web-mobile：onAfterBuild ---- (40ms)
+2023-9-1 18:20:34-debug: // ---- build task cocos-service：onAfterBuild ----
+2023-9-1 18:20:34-debug: web-mobile:(onAfterBuild) in 40 ms ✓60%
+2023-9-1 18:20:34-debug: cocos-service:(onAfterBuild) start...60%
+2023-9-1 18:20:35-debug: // ---- build task cocos-service：onAfterBuild ---- (524ms)
+2023-9-1 18:20:35-log: Asset DB is resume!
+2023-9-1 18:20:35-debug: cocos-service:(onAfterBuild) in 524 ms ✓62%
+2023-9-1 18:20:35-debug: builder:build-project-total (197971ms)
+2023-9-1 18:20:35-debug: build success in 197971 ms!
+2023-9-1 18:20:35-debug: [Build Memory track]: builder:build-project-total start:247.26MB, end 255.29MB, increase: 8.03MB
+2023-9-1 18:20:35-debug: ================================ build Task (web-mobile) Finished in (198004)ms ================================
+2023-9-1 18:20:35-debug: Stop record console. {file(/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/temp/builder/log/web-mobile8-31-2023 16-35.log)}
+2023-9-1 18:20:35-warn: The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:Node path: "mateverse"Asset url: "db://assets/scenes/mateverse"Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+2023-9-1 18:39:34-debug: refresh db internal success
+2023-9-1 18:39:34-debug: refresh db assets success
+2023-9-1 18:39:34-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 18:39:34-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 18:39:34-debug: asset-db:refresh-all-database (81ms)
+2023-9-1 18:39:34-debug: asset-db:worker-effect-data-processing (1ms)
+2023-9-1 18:39:34-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-9-1 18:41:42-debug: refresh db internal success
+2023-9-1 18:41:42-debug: refresh db assets success
+2023-9-1 18:41:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 18:41:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 18:41:42-debug: asset-db:refresh-all-database (60ms)
+2023-9-1 18:41:42-debug: asset-db-hook-engine-extends-afterRefresh (2ms)

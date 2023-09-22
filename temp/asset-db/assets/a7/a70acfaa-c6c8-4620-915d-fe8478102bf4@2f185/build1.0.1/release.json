@@ -1,0 +1,105 @@
+[
+    1,
+    [
+        "a7Cs+qxshGIJFd/oR4ECv0@16917",
+        "f6SJZOjTJB/JrJeh5xTdF7"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "Texture-base-gloss-jpg",
+            [
+                {
+                    "rasterizerState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {}
+                }
+            ],
+            [
+                {
+                    "USE_ALBEDO_MAP": true,
+                    "DCC_APP_NAME": 1
+                }
+            ],
+            [
+                [
+                    [
+                        {
+                            "albedoScale": 1,
+                            "specularFactor": 1.159999966621399,
+                            "shininessExponent": 7.464263916015625,
+                            "emissiveScale": 0
+                        },
+                        "mainColor",
+                        8,
+                        [
+                            4,
+                            4291480266
+                        ],
+                        "specularColor",
+                        8,
+                        [
+                            4,
+                            4294177779
+                        ],
+                        "emissive",
+                        8,
+                        [
+                            4,
+                            4278190080
+                        ],
+                        "mainTexture",
+                        6,
+                        0
+                    ]
+                ],
+                11
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

@@ -1,0 +1,14 @@
+{
+  "version": "2.3.8",
+  "sourceTimeStamp": 1693477441052.9238,
+  "outputTimeStamps": {
+    "log.json": 1693536648486.0393,
+    "out.gltf": 1693536648485.6128,
+    "out.bin": 1693536648483.0173,
+    "tex_rooster_man.png": 1693536648471.2498
+  },
+  "options": {
+    "smartMaterialEnabled": false,
+    "matchMeshNames": false
+  }
+}

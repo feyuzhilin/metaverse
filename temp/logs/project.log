@@ -1,0 +1,23 @@
+9-13-2023 15:59:39 - log: Load engine in /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine
+9-13-2023 15:59:39 - log: Profile changed: engine (modules.includeModules: 2d,3d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,light-probe,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,skeletal-animation,spine,terrain,tiled-map,tween,ui,video,websocket,webview)
+9-13-2023 15:59:39 - log: Register native engine in /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+9-13-2023 16:00:03 - info: [Scene] [PHYSICS]: using builtin.
+9-13-2023 16:00:03 - log: [Scene] Cocos Creator v3.8.0
+9-13-2023 16:00:03 - info: [Scene] Forward render pipeline initialized.
+9-13-2023 16:00:03 - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+9-13-2023 16:00:03 - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+9-13-2023 16:06:09 - warn: [Assets] The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:
+Node path: "mateverse"
+Asset url: "db://assets/scenes/mateverse"
+Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+[Assets] The TextureCube used by node "mateverse" in scene "mateverse" is missing. Detailed information:
+Node path: "mateverse"
+Asset url: "db://assets/scenes/mateverse"
+Missing uuid: "40a72107-31ea-456c-a719-f8a82d6d5119@b47c0"
+  
+at Object.encode (/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at Object.warn (/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)  
+at Object.warn (/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1530)  
+at MissingObjectReporter.doReport (/Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-object-reporter.ccc:1:1535)

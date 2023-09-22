@@ -1,0 +1,1331 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller": {
+      "time": 1693213034240.7598,
+      "uuid": "5a3feb09-61d5-4b9a-b480-7b90c02f905e"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/materials": {
+      "time": 1693213034232.0544,
+      "uuid": "894bb6c2-60db-464c-bc66-6a0ab265e83e"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models": {
+      "time": 1693467505026.832,
+      "uuid": "b2487666-bd9f-4bfe-9821-49e78b814379"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scenes": {
+      "time": 1693213032869.966,
+      "uuid": "6a685c22-646d-4eaf-a6bd-aae4e811c693"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scripts": {
+      "time": 1693213032862.4792,
+      "uuid": "1b31aa7c-343d-45dd-b7b1-b5046a36f62f"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man": {
+      "time": 1693213034215.2878,
+      "uuid": "161855d6-1e5a-4e58-bb1a-f5b49200a4ee"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/CharacterMovement.ts": {
+      "time": 1693213034240.8506,
+      "uuid": "d197a4ec-eefd-4692-9c32-a5d2757b327c"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/EasyController.ts": {
+      "time": 1693213034239.8699,
+      "uuid": "cc9338a3-89a7-411b-8ec6-67ad715c0e76"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/FPSCamera.ts": {
+      "time": 1693213034238.9246,
+      "uuid": "6c02dedb-5810-484d-b327-95356b0c9f95"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/FreeCamera.ts": {
+      "time": 1693274464792.241,
+      "uuid": "4569ab45-ae90-4980-984b-10db774e698b"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/ThirdPersonCamera.ts": {
+      "time": 1693213034236.9097,
+      "uuid": "195f1fed-355b-48b3-97ae-3a77101295b4"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/UI_Joystick.ts": {
+      "time": 1693213034235.7002,
+      "uuid": "0d3fd50c-507d-45ab-81b5-dc85a3ecb7f6"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scripts/FullScreenCtrl.ts": {
+      "time": 1693213032862.6846,
+      "uuid": "c3ade1ec-d688-4038-b333-35135999ff7c"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scripts/RoosterJumpEntry.ts": {
+      "time": 1693213032860.811,
+      "uuid": "bb64412b-7a26-4360-8aa3-80720f6f46e3"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller.meta": {
+      "time": 1693213034232.7888
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/materials.meta": {
+      "time": 1693213034228.4944
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models.meta": {
+      "time": 1693213032871.9258
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scenes.meta": {
+      "time": 1693213032863.9592
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scripts.meta": {
+      "time": 1693213032857.8303
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/shaders.meta": {
+      "time": 1693213032851.2385
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/textures.meta": {
+      "time": 1693213032846.0522
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/objects.meta": {
+      "time": 1693213034216.396
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man.meta": {
+      "time": 1693213032873.8345
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/CharacterMovement.ts.meta": {
+      "time": 1693213034240.3936
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/EasyController.ts.meta": {
+      "time": 1693213034239.3828
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/FPSCamera.ts.meta": {
+      "time": 1693213034238.43
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/shaders/standard-ground.effect.meta": {
+      "time": 1693213032855.7131
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/FreeCamera.ts.meta": {
+      "time": 1693213034237.3835
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/shaders/standard-rooster.effect.meta": {
+      "time": 1693213032852.6492
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/ThirdPersonCamera.ts.meta": {
+      "time": 1693213034236.3298
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/UI_Joystick.ts.meta": {
+      "time": 1693213034235.189
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scripts/FullScreenCtrl.ts.meta": {
+      "time": 1693213032861.6692
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scripts/RoosterJumpEntry.ts.meta": {
+      "time": 1693213032859.86
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/ui_joystick_panel.prefab": {
+      "time": 1693213034234.5586,
+      "uuid": "55ac4e22-a145-4a46-92f1-a45afa1b8f08"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/materials/glasses.mtl": {
+      "time": 1693213034230.9714,
+      "uuid": "577c4af4-2caf-410f-8aaa-49beebd5bf1c"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/materials/physics-material.pmtl": {
+      "time": 1693213034229.9148,
+      "uuid": "5ec251a5-8b32-468e-993a-e8958f2a46c1"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scenes/rooster_jump.scene": {
+      "time": 1693468806599.6113,
+      "uuid": "0d6c75ac-8171-4aaa-a146-3d530a2632f9"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/ani_graph_role_rooster_man.animgraph": {
+      "time": 1693213034215.5083,
+      "uuid": "f29550d7-bf7d-420d-9cdc-b11df4855fbe"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_mask_rig_sokoban.animask": {
+      "time": 1693213034213.8867,
+      "uuid": "f26be37a-e527-4b5d-a764-80104c4560e5"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_mask_rig_unbrella.animask": {
+      "time": 1693213034211.4448,
+      "uuid": "90de7847-9e60-4cb2-8f12-51399ada4b6c"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_climb_over.FBX": {
+      "time": 1693213034208.08,
+      "uuid": "af71c043-e2e4-4a55-91cc-0b0dea42472b"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fall_into_water.FBX": {
+      "time": 1693213034203.061,
+      "uuid": "2cca57b9-f8e2-4cdc-9817-585128320009"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fall_into_water_die.FBX": {
+      "time": 1693213034199.1255,
+      "uuid": "b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fly.FBX": {
+      "time": 1693213034195.3118,
+      "uuid": "b8549459-6e21-4ea0-a69c-c23213cfa0b1"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fly_open.FBX": {
+      "time": 1693213034190.7761,
+      "uuid": "71cd5f68-0f8d-4c92-842a-19b599abf4e3"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fly_shut.FBX": {
+      "time": 1693213034186.5466,
+      "uuid": "c657cafb-170c-45b7-ba51-ac61469db43f"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_high_speed_drop_ground.FBX": {
+      "time": 1693213032945.8079,
+      "uuid": "bf851bc5-65ad-42e0-bc99-644270b6cf67"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_idle_1.FBX": {
+      "time": 1693213032939.368,
+      "uuid": "ad458d2b-05f5-4d4a-ab6a-936cd46d9766"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_idle_2.FBX": {
+      "time": 1693213032935.65,
+      "uuid": "6f667909-55ed-4ad3-97d1-5a103ff6d769"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_jump.FBX": {
+      "time": 1693213032930.2295,
+      "uuid": "22b9e5fa-452b-4d39-b970-0ef14606f9ec"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_run.FBX": {
+      "time": 1693213032925.2385,
+      "uuid": "4e5e790d-384c-4806-ace2-11fb5131d5a4"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_sky_jump.FBX": {
+      "time": 1693213032920.603,
+      "uuid": "c1384d07-8d39-4e1b-afc5-a861976b43b2"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_sokoban.FBX": {
+      "time": 1693213032915.642,
+      "uuid": "ef35630b-fbaf-43b2-ab69-409fabe89908"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_stand_to_climb.FBX": {
+      "time": 1693213032908.771,
+      "uuid": "e1a305ec-3d79-461f-abf0-c844738af84a"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_walk.FBX": {
+      "time": 1693213032903.41,
+      "uuid": "648b3db6-164d-4e37-bf3a-ba18a1d1bbc4"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_win.FBX": {
+      "time": 1693213032898.525,
+      "uuid": "86700f78-dd53-445d-b4f3-bf1d6bf6addc"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/rooster_man_skin.FBX": {
+      "time": 1693213032888.2493,
+      "uuid": "818afa8d-4f32-4b2f-8dd7-b09a3315ff50"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/tex_rooster_man.png": {
+      "time": 1693213032880.918,
+      "uuid": "a2f8f911-6a76-4c49-b9ae-0dfa37e43ed7"
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/materials/Mat-Ground.mtl.meta": {
+      "time": 1693213034231.5537
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/materials/glasses.mtl.meta": {
+      "time": 1693213034230.464
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/materials/physics-material.pmtl.meta": {
+      "time": 1693213034229.429
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/kylins_easy_controller/ui_joystick_panel.prefab.meta": {
+      "time": 1693213034233.835
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/scenes/rooster_jump.scene.meta": {
+      "time": 1693213032866.9536
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/textures/grid.jpg.meta": {
+      "time": 1693213032847.3035
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/ani_graph_role_rooster_man.animgraph.meta": {
+      "time": 1693213034214.7065
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/textures/floorTile.png.meta": {
+      "time": 1693213032849.0938
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_mask_rig_sokoban.animask.meta": {
+      "time": 1693213034213.0535
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_mask_rig_unbrella.animask.meta": {
+      "time": 1693213034210.5986
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_climb_over.FBX.meta": {
+      "time": 1693213034204.2207
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fall_into_water.FBX.meta": {
+      "time": 1693213034200.6091
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fall_into_water_die.FBX.meta": {
+      "time": 1693213034195.978
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fly.FBX.meta": {
+      "time": 1693213034191.9338
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fly_open.FBX.meta": {
+      "time": 1693213034187.586
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_fly_shut.FBX.meta": {
+      "time": 1693213034183.032
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_high_speed_drop_ground.FBX.meta": {
+      "time": 1693213032940.3713
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_idle_1.FBX.meta": {
+      "time": 1693213032936.7356
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_idle_2.FBX.meta": {
+      "time": 1693213032932.4639
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_run.FBX.meta": {
+      "time": 1693213032922.3865
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_sky_jump.FBX.meta": {
+      "time": 1693213032916.856
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_jump.FBX.meta": {
+      "time": 1693213032926.36
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_stand_to_climb.FBX.meta": {
+      "time": 1693213032905.1619
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_sokoban.FBX.meta": {
+      "time": 1693213032910.1462
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_walk.FBX.meta": {
+      "time": 1693213032900.519
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/tex_rooster_man.png.meta": {
+      "time": 1693213032876.6306
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/anim_rig_win.FBX.meta": {
+      "time": 1693213032890.121
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/rooster_man/rooster_man_skin.FBX.meta": {
+      "time": 1693213032884.1892
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/objects/fbx_map0.FBX.meta": {
+      "time": 1693213034217.5881
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track.meta": {
+      "time": 1693467505029.2969
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures.meta": {
+      "time": 1693467505029.622
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/road_normal.jpeg.meta": {
+      "time": 1693467505339.5898
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/rock_diffuse.png.meta": {
+      "time": 1693467505065.3772
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/trees_diffuse.png.meta": {
+      "time": 1693467505066.4014
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/tyres_diffuse.png.meta": {
+      "time": 1693467505073.88
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/tyres_normal.png.meta": {
+      "time": 1693467505067.2488
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/license.txt.meta": {
+      "time": 1693467506415.0828
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/scene.bin.meta": {
+      "time": 1693467511271.7397
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/scene.gltf.meta": {
+      "time": 1693467515630.6697
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/baloon_diffuse.png.meta": {
+      "time": 1693467506436.3564
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/banners_diffuse.png.meta": {
+      "time": 1693467506474.5881
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/barriers_diffuse.png.meta": {
+      "time": 1693467506457.6226
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/fence_metal_diffuse.png.meta": {
+      "time": 1693467506723.741
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/garages_diffuse.png.meta": {
+      "time": 1693467506645.7979
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/garages_specularGlossiness.png.meta": {
+      "time": 1693467506617.8333
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/grass_1_diffuse.png.meta": {
+      "time": 1693467506639.78
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/grass_2_diffuse.png.meta": {
+      "time": 1693467506654.0557
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/gravel_diffuse.png.meta": {
+      "time": 1693467506671.8481
+    },
+    "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/road_diffuse.png.meta": {
+      "time": 1693467511273.642
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/materials": {
+      "time": 1693471539654.5098,
+      "uuid": "894bb6c2-60db-464c-bc66-6a0ab265e83e"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models": {
+      "time": 1693471698933.3633,
+      "uuid": "b2487666-bd9f-4bfe-9821-49e78b814379"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scenes": {
+      "time": 1693471857558.0566,
+      "uuid": "6a685c22-646d-4eaf-a6bd-aae4e811c693"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scripts": {
+      "time": 1693472577168.5024,
+      "uuid": "1b31aa7c-343d-45dd-b7b1-b5046a36f62f"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scripts/FullScreenCtrl.ts": {
+      "time": 1693213032862.6846,
+      "uuid": "c3ade1ec-d688-4038-b333-35135999ff7c"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/materials.meta": {
+      "time": 1693213034228.4944
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models.meta": {
+      "time": 1693213032871.9258
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scenes.meta": {
+      "time": 1693213032863.9592
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scripts.meta": {
+      "time": 1693213032857.8303
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scripts/FullScreenCtrl.ts.meta": {
+      "time": 1693213032861.6692
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/materials/glasses.mtl": {
+      "time": 1693213034230.9714,
+      "uuid": "577c4af4-2caf-410f-8aaa-49beebd5bf1c"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/materials/physics-material.pmtl": {
+      "time": 1693213034229.9148,
+      "uuid": "5ec251a5-8b32-468e-993a-e8958f2a46c1"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/materials/glasses.mtl.meta": {
+      "time": 1693213034230.464
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/materials/physics-material.pmtl.meta": {
+      "time": 1693213034229.429
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book.meta": {
+      "time": 1693470178490.7512
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/source.meta": {
+      "time": 1693470178491.0432
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/textures.meta": {
+      "time": 1693470178491.3037
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/source/TEST2.fbx.meta": {
+      "time": 1693470182144.9587
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/textures/text_alpha.jpg.meta": {
+      "time": 1693470181385.6003
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/textures/text_glow.jpg.meta": {
+      "time": 1693470181386.5867
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/textures/texture.jpg.meta": {
+      "time": 1693470181387.522
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book": {
+      "time": 1693470178487.9785,
+      "uuid": "13d8a04f-a501-423d-ad77-202e122a9c4d"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/source": {
+      "time": 1693470178488.306,
+      "uuid": "10cfcdf6-d641-4f4d-a633-afc00991617a"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/textures": {
+      "time": 1693470178489.1743,
+      "uuid": "26275b3c-8d90-410b-9316-f6377f4314fb"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/textures/text_alpha.jpg": {
+      "time": 1693470178478.7937,
+      "uuid": "3267cc42-f982-4a71-819d-9a204b6134ae"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/textures/text_glow.jpg": {
+      "time": 1693470178477.9307,
+      "uuid": "b48dd2c6-9758-4661-8baa-44154702e4b3"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/textures/texture.jpg": {
+      "time": 1693470178476.8784,
+      "uuid": "b9b11bc0-fd7c-45e7-bf78-6f4c2a8bd969"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/medieval-fantasy-book/source/TEST2.fbx": {
+      "time": 1693470178485.1863,
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man.meta": {
+      "time": 1693213032873.8345
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man": {
+      "time": 1693213034215.2878,
+      "uuid": "161855d6-1e5a-4e58-bb1a-f5b49200a4ee"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_mask_rig_unbrella.animask.meta": {
+      "time": 1693213034210.5986
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_mask_rig_unbrella.animask": {
+      "time": 1693213034211.4448,
+      "uuid": "90de7847-9e60-4cb2-8f12-51399ada4b6c"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/ani_graph_role_rooster_man.animgraph.meta": {
+      "time": 1693213034214.7065
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/ani_graph_role_rooster_man.animgraph": {
+      "time": 1693213034215.5083,
+      "uuid": "f29550d7-bf7d-420d-9cdc-b11df4855fbe"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_mask_rig_sokoban.animask.meta": {
+      "time": 1693213034213.0535
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_mask_rig_sokoban.animask": {
+      "time": 1693213034213.8867,
+      "uuid": "f26be37a-e527-4b5d-a764-80104c4560e5"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_climb_over.FBX.meta": {
+      "time": 1693471699489.2007
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_climb_over.FBX": {
+      "time": 1693213034208.08,
+      "uuid": "af71c043-e2e4-4a55-91cc-0b0dea42472b"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fall_into_water.FBX.meta": {
+      "time": 1693471699493.786
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fall_into_water.FBX": {
+      "time": 1693213034203.061,
+      "uuid": "2cca57b9-f8e2-4cdc-9817-585128320009"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fly.FBX.meta": {
+      "time": 1693471699783.7483
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fly.FBX": {
+      "time": 1693213034195.3118,
+      "uuid": "b8549459-6e21-4ea0-a69c-c23213cfa0b1"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fall_into_water_die.FBX.meta": {
+      "time": 1693471699788.844
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fall_into_water_die.FBX": {
+      "time": 1693213034199.1255,
+      "uuid": "b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fly_open.FBX.meta": {
+      "time": 1693471699792.5984
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fly_open.FBX": {
+      "time": 1693213034190.7761,
+      "uuid": "71cd5f68-0f8d-4c92-842a-19b599abf4e3"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_high_speed_drop_ground.FBX.meta": {
+      "time": 1693471700114.4846
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_high_speed_drop_ground.FBX": {
+      "time": 1693213032945.8079,
+      "uuid": "bf851bc5-65ad-42e0-bc99-644270b6cf67"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fly_shut.FBX.meta": {
+      "time": 1693471700118.1794
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_fly_shut.FBX": {
+      "time": 1693213034186.5466,
+      "uuid": "c657cafb-170c-45b7-ba51-ac61469db43f"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_idle_1.FBX.meta": {
+      "time": 1693471700247.6174
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_idle_1.FBX": {
+      "time": 1693213032939.368,
+      "uuid": "ad458d2b-05f5-4d4a-ab6a-936cd46d9766"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_idle_2.FBX.meta": {
+      "time": 1693471700251.067
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_idle_2.FBX": {
+      "time": 1693213032935.65,
+      "uuid": "6f667909-55ed-4ad3-97d1-5a103ff6d769"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_jump.FBX.meta": {
+      "time": 1693471700453.9417
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_jump.FBX": {
+      "time": 1693213032930.2295,
+      "uuid": "22b9e5fa-452b-4d39-b970-0ef14606f9ec"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_run.FBX.meta": {
+      "time": 1693471700685.9443
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_run.FBX": {
+      "time": 1693213032925.2385,
+      "uuid": "4e5e790d-384c-4806-ace2-11fb5131d5a4"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_sky_jump.FBX.meta": {
+      "time": 1693471700690.2368
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_sky_jump.FBX": {
+      "time": 1693213032920.603,
+      "uuid": "c1384d07-8d39-4e1b-afc5-a861976b43b2"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_sokoban.FBX.meta": {
+      "time": 1693471700802.3926
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_sokoban.FBX": {
+      "time": 1693213032915.642,
+      "uuid": "ef35630b-fbaf-43b2-ab69-409fabe89908"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_stand_to_climb.FBX.meta": {
+      "time": 1693471700806.736
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_stand_to_climb.FBX": {
+      "time": 1693213032908.771,
+      "uuid": "e1a305ec-3d79-461f-abf0-c844738af84a"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_walk.FBX.meta": {
+      "time": 1693471700944.0295
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_walk.FBX": {
+      "time": 1693213032903.41,
+      "uuid": "648b3db6-164d-4e37-bf3a-ba18a1d1bbc4"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/tex_rooster_man.png.meta": {
+      "time": 1693213032876.6306
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/tex_rooster_man.png": {
+      "time": 1693213032880.918,
+      "uuid": "a2f8f911-6a76-4c49-b9ae-0dfa37e43ed7"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_win.FBX.meta": {
+      "time": 1693471701012.8933
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/anim_rig_win.FBX": {
+      "time": 1693213032898.525,
+      "uuid": "86700f78-dd53-445d-b4f3-bf1d6bf6addc"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/rooster_man_skin.FBX.meta": {
+      "time": 1693471701200.0159
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/man/rooster_man_skin.FBX": {
+      "time": 1693213032888.2493,
+      "uuid": "818afa8d-4f32-4b2f-8dd7-b09a3315ff50"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scenes/mateverse.scene.meta": {
+      "time": 1693213032866.9536
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scenes/mateverse.scene": {
+      "time": 1693475868796.4163,
+      "uuid": "0d6c75ac-8171-4aaa-a146-3d530a2632f9"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller.meta": {
+      "time": 1693213034232.7888
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller": {
+      "time": 1693213034240.7598,
+      "uuid": "5a3feb09-61d5-4b9a-b480-7b90c02f905e"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/CharacterMovement.ts.meta": {
+      "time": 1693213034240.3936
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/CharacterMovement.ts": {
+      "time": 1693213034240.8506,
+      "uuid": "d197a4ec-eefd-4692-9c32-a5d2757b327c"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/EasyController.ts.meta": {
+      "time": 1693213034239.3828
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/EasyController.ts": {
+      "time": 1693213034239.8699,
+      "uuid": "cc9338a3-89a7-411b-8ec6-67ad715c0e76"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/FPSCamera.ts.meta": {
+      "time": 1693213034238.43
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/FPSCamera.ts": {
+      "time": 1693213034238.9246,
+      "uuid": "6c02dedb-5810-484d-b327-95356b0c9f95"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/FreeCamera.ts.meta": {
+      "time": 1693213034237.3835
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/FreeCamera.ts": {
+      "time": 1693274464792.241,
+      "uuid": "4569ab45-ae90-4980-984b-10db774e698b"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/ThirdPersonCamera.ts.meta": {
+      "time": 1693213034236.3298
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/ThirdPersonCamera.ts": {
+      "time": 1693213034236.9097,
+      "uuid": "195f1fed-355b-48b3-97ae-3a77101295b4"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/UI_Joystick.ts.meta": {
+      "time": 1693213034235.189
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/UI_Joystick.ts": {
+      "time": 1693213034235.7002,
+      "uuid": "0d3fd50c-507d-45ab-81b5-dc85a3ecb7f6"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/ui_joystick_panel.prefab.meta": {
+      "time": 1693213034233.835
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/easy_controller/ui_joystick_panel.prefab": {
+      "time": 1693213034234.5586,
+      "uuid": "55ac4e22-a145-4a46-92f1-a45afa1b8f08"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scripts/Entry.ts.meta": {
+      "time": 1693213032859.86
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scripts/Entry.ts": {
+      "time": 1693472122293.7317,
+      "uuid": "bb64412b-7a26-4360-8aa3-80720f6f46e3"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller": {
+      "time": 1693477440979.9153,
+      "uuid": "5a3feb09-61d5-4b9a-b480-7b90c02f905e"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materials": {
+      "time": 1693477440981.2664,
+      "uuid": "894bb6c2-60db-464c-bc66-6a0ab265e83e"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models": {
+      "time": 1693477441057.222,
+      "uuid": "b2487666-bd9f-4bfe-9821-49e78b814379"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes": {
+      "time": 1693477441078.6606,
+      "uuid": "6a685c22-646d-4eaf-a6bd-aae4e811c693"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scripts": {
+      "time": 1693477441080.3545,
+      "uuid": "1b31aa7c-343d-45dd-b7b1-b5046a36f62f"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man": {
+      "time": 1693477441056.4443,
+      "uuid": "161855d6-1e5a-4e58-bb1a-f5b49200a4ee"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book": {
+      "time": 1693477441074.2473,
+      "uuid": "13d8a04f-a501-423d-ad77-202e122a9c4d"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source": {
+      "time": 1693477441073.599,
+      "uuid": "10cfcdf6-d641-4f4d-a633-afc00991617a"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures": {
+      "time": 1693477441077.6292,
+      "uuid": "26275b3c-8d90-410b-9316-f6377f4314fb"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/CharacterMovement.ts": {
+      "time": 1693477440976.5166,
+      "uuid": "d197a4ec-eefd-4692-9c32-a5d2757b327c"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/EasyController.ts": {
+      "time": 1693477440977.054,
+      "uuid": "cc9338a3-89a7-411b-8ec6-67ad715c0e76"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/FPSCamera.ts": {
+      "time": 1693477440977.569,
+      "uuid": "6c02dedb-5810-484d-b327-95356b0c9f95"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/FreeCamera.ts": {
+      "time": 1693477440978.0813,
+      "uuid": "4569ab45-ae90-4980-984b-10db774e698b"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/ThirdPersonCamera.ts": {
+      "time": 1693477440978.5671,
+      "uuid": "195f1fed-355b-48b3-97ae-3a77101295b4"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/UI_Joystick.ts": {
+      "time": 1693555537866.991,
+      "uuid": "0d3fd50c-507d-45ab-81b5-dc85a3ecb7f6"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scripts/Entry.ts": {
+      "time": 1693477441079.4324,
+      "uuid": "bb64412b-7a26-4360-8aa3-80720f6f46e3"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scripts/FullScreenCtrl.ts": {
+      "time": 1693477441080.2046,
+      "uuid": "c3ade1ec-d688-4038-b333-35135999ff7c"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller.meta": {
+      "time": 1693477440976.15
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materials.meta": {
+      "time": 1693477440980.309
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models.meta": {
+      "time": 1693477440982.0051
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes.meta": {
+      "time": 1693477441078.0837
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scripts.meta": {
+      "time": 1693477441079.103
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man.meta": {
+      "time": 1693477440982.3389
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book.meta": {
+      "time": 1693477441057.093
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source.meta": {
+      "time": 1693477441057.5732
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures.meta": {
+      "time": 1693477441074.153
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/CharacterMovement.ts.meta": {
+      "time": 1693477440976.7903
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/EasyController.ts.meta": {
+      "time": 1693477440977.3135
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/FPSCamera.ts.meta": {
+      "time": 1693477440977.7983
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/FreeCamera.ts.meta": {
+      "time": 1693477440978.3225
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/ThirdPersonCamera.ts.meta": {
+      "time": 1693477440978.7925
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/UI_Joystick.ts.meta": {
+      "time": 1693477440979.3628
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scripts/Entry.ts.meta": {
+      "time": 1693477441079.7964
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scripts/FullScreenCtrl.ts.meta": {
+      "time": 1693477441080.6128
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/ui_joystick_panel.prefab": {
+      "time": 1693477440979.7363,
+      "uuid": "55ac4e22-a145-4a46-92f1-a45afa1b8f08"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materials/glasses.mtl": {
+      "time": 1693477440980.6826,
+      "uuid": "577c4af4-2caf-410f-8aaa-49beebd5bf1c"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materials/physics-material.pmtl": {
+      "time": 1693477440981.1753,
+      "uuid": "5ec251a5-8b32-468e-993a-e8958f2a46c1"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scene": {
+      "time": 1693563349867.0024,
+      "uuid": "0d6c75ac-8171-4aaa-a146-3d530a2632f9"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/ani_graph_role_rooster_man.animgraph": {
+      "time": 1693477440982.8142,
+      "uuid": "f29550d7-bf7d-420d-9cdc-b11df4855fbe"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_mask_rig_sokoban.animask": {
+      "time": 1693477440983.4521,
+      "uuid": "f26be37a-e527-4b5d-a764-80104c4560e5"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_mask_rig_unbrella.animask": {
+      "time": 1693477440983.9932,
+      "uuid": "90de7847-9e60-4cb2-8f12-51399ada4b6c"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_climb_over.FBX": {
+      "time": 1693477440987.1086,
+      "uuid": "af71c043-e2e4-4a55-91cc-0b0dea42472b"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water.FBX": {
+      "time": 1693477440989.4702,
+      "uuid": "2cca57b9-f8e2-4cdc-9817-585128320009"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water_die.FBX": {
+      "time": 1693477440994.4868,
+      "uuid": "b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly.FBX": {
+      "time": 1693477440998.13,
+      "uuid": "b8549459-6e21-4ea0-a69c-c23213cfa0b1"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_open.FBX": {
+      "time": 1693477441000.9844,
+      "uuid": "71cd5f68-0f8d-4c92-842a-19b599abf4e3"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_shut.FBX": {
+      "time": 1693477441005.438,
+      "uuid": "c657cafb-170c-45b7-ba51-ac61469db43f"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_high_speed_drop_ground.FBX": {
+      "time": 1693477441015.7708,
+      "uuid": "bf851bc5-65ad-42e0-bc99-644270b6cf67"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_1.FBX": {
+      "time": 1693477441018.921,
+      "uuid": "ad458d2b-05f5-4d4a-ab6a-936cd46d9766"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_2.FBX": {
+      "time": 1693477441022.056,
+      "uuid": "6f667909-55ed-4ad3-97d1-5a103ff6d769"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_jump.FBX": {
+      "time": 1693477441027.3171,
+      "uuid": "22b9e5fa-452b-4d39-b970-0ef14606f9ec"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_run.FBX": {
+      "time": 1693477441030.3179,
+      "uuid": "4e5e790d-384c-4806-ace2-11fb5131d5a4"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sky_jump.FBX": {
+      "time": 1693477441034.0002,
+      "uuid": "c1384d07-8d39-4e1b-afc5-a861976b43b2"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sokoban.FBX": {
+      "time": 1693477441037.1992,
+      "uuid": "ef35630b-fbaf-43b2-ab69-409fabe89908"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_stand_to_climb.FBX": {
+      "time": 1693477441039.4302,
+      "uuid": "e1a305ec-3d79-461f-abf0-c844738af84a"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_walk.FBX": {
+      "time": 1693477441042.2458,
+      "uuid": "648b3db6-164d-4e37-bf3a-ba18a1d1bbc4"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_win.FBX": {
+      "time": 1693477441048.3306,
+      "uuid": "86700f78-dd53-445d-b4f3-bf1d6bf6addc"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX": {
+      "time": 1693477441052.9238,
+      "uuid": "818afa8d-4f32-4b2f-8dd7-b09a3315ff50"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/tex_rooster_man.png": {
+      "time": 1693477441056.149,
+      "uuid": "a2f8f911-6a76-4c49-b9ae-0dfa37e43ed7"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx": {
+      "time": 1693477441072.0073,
+      "uuid": "a70acfaa-c6c8-4620-915d-fe8478102bf4"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_alpha.jpg": {
+      "time": 1693477441074.6057,
+      "uuid": "3267cc42-f982-4a71-819d-9a204b6134ae"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_glow.jpg": {
+      "time": 1693477441075.5615,
+      "uuid": "b48dd2c6-9758-4661-8baa-44154702e4b3"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/texture.jpg": {
+      "time": 1693477441077.45,
+      "uuid": "b9b11bc0-fd7c-45e7-bf78-6f4c2a8bd969"
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materials/glasses.mtl.meta": {
+      "time": 1693477440980.929
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materials/physics-material.pmtl.meta": {
+      "time": 1693477440981.7122
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scene.meta": {
+      "time": 1693477441078.8154
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/ui_joystick_panel.prefab.meta": {
+      "time": 1693477440980.0693
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/ani_graph_role_rooster_man.animgraph.meta": {
+      "time": 1693477440983.1785
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_mask_rig_sokoban.animask.meta": {
+      "time": 1693477440983.7336
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_mask_rig_unbrella.animask.meta": {
+      "time": 1693477440984.3293
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water.FBX.meta": {
+      "time": 1693536598905.2346
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly.FBX.meta": {
+      "time": 1693536599077.1724
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water_die.FBX.meta": {
+      "time": 1693536599081.7656
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_climb_over.FBX.meta": {
+      "time": 1693536599085.623
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_open.FBX.meta": {
+      "time": 1693536610765.6665
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_shut.FBX.meta": {
+      "time": 1693536614508.494
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_high_speed_drop_ground.FBX.meta": {
+      "time": 1693536614512.15
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_2.FBX.meta": {
+      "time": 1693536614515.3838
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_1.FBX.meta": {
+      "time": 1693536633558.598
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_run.FBX.meta": {
+      "time": 1693536638277.8894
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sky_jump.FBX.meta": {
+      "time": 1693536638380.9207
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_jump.FBX.meta": {
+      "time": 1693536638694.2812
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sokoban.FBX.meta": {
+      "time": 1693536638957.989
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_stand_to_climb.FBX.meta": {
+      "time": 1693536645054.2285
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/tex_rooster_man.png.meta": {
+      "time": 1693477441056.7075
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_walk.FBX.meta": {
+      "time": 1693536645373.2327
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_alpha.jpg.meta": {
+      "time": 1693477441074.899
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_glow.jpg.meta": {
+      "time": 1693477441075.9346
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_win.FBX.meta": {
+      "time": 1693536652148.096
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/texture.jpg.meta": {
+      "time": 1693477441077.824
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX.meta": {
+      "time": 1693536652875.5671
+    },
+    "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx.meta": {
+      "time": 1693477441073.901
+    }
+  },
+  "missing": {
+    "873fa183-420e-41e2-b8b5-14b78b20972b": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track",
+      "time": 1693467506398.2222,
+      "removeTime": 1693472381039
+    },
+    "5ca33ab4-16a0-4954-8712-a5eca990cbb2": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures",
+      "time": 1693467506401.2039,
+      "removeTime": 1693472381040
+    },
+    "7969433d-16df-4433-a7e7-462e74f83219": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/license.txt",
+      "time": 1693467506395.901,
+      "removeTime": 1693472381042
+    },
+    "088222af-fee4-4da5-ab9f-49eabede6555": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/scene.bin",
+      "time": 1693467506384.963,
+      "removeTime": 1693472381045
+    },
+    "1206b0f2-b168-4c4a-99ef-31a72fb3071e": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/scene.gltf",
+      "time": 1693467505947.2751,
+      "removeTime": 1693472381045
+    },
+    "622c04c8-f4b2-4e97-bf2a-479a79aaceee": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/baloon_diffuse.png",
+      "time": 1693467505942.1565,
+      "removeTime": 1693472381043
+    },
+    "e83df176-301a-49f0-8dcc-49a68cc5ecae": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/banners_diffuse.png",
+      "time": 1693467505935.6558,
+      "removeTime": 1693472381043
+    },
+    "cf82964b-6c81-4970-8088-ea9080e2c410": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/barriers_diffuse.png",
+      "time": 1693467505922.6157,
+      "removeTime": 1693472381043
+    },
+    "55633f88-a6a7-495f-900f-45fa41ddde7f": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/fence_metal_diffuse.png",
+      "time": 1693467505919.1702,
+      "removeTime": 1693472381045
+    },
+    "6ab7d568-65d4-43af-a418-b7012469a4b7": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/garages_diffuse.png",
+      "time": 1693467505911.513,
+      "removeTime": 1693472381044
+    },
+    "5eb754ce-3659-4971-883b-d66677f0ed1c": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/garages_specularGlossiness.png",
+      "time": 1693467505866.333,
+      "removeTime": 1693472381044
+    },
+    "84c0c447-4605-402a-b77d-503cfb04f862": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/grass_1_diffuse.png",
+      "time": 1693467505864.735,
+      "removeTime": 1693472381044
+    },
+    "f70ac2c0-f821-4205-ab9e-0eb1aca2c58a": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/grass_2_diffuse.png",
+      "time": 1693467505862.6743,
+      "removeTime": 1693472381045
+    },
+    "eaabe7ce-f463-4be2-9d08-3216888b7cf2": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/gravel_diffuse.png",
+      "time": 1693467505859.49,
+      "removeTime": 1693472381045
+    },
+    "642a5933-4a93-479b-a6b9-272a18e2d4aa": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/road_diffuse.png",
+      "time": 1693467505855.4482,
+      "removeTime": 1693472381045
+    },
+    "197a6a1c-8145-4ec7-9b64-fac492515c33": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/road_normal.jpeg",
+      "time": 1693467505620.3853,
+      "removeTime": 1693472381042
+    },
+    "964d1f39-5f74-4438-957e-2556cef988f5": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/rock_diffuse.png",
+      "time": 1693467504875.383,
+      "removeTime": 1693472381041
+    },
+    "9d1f68f7-7328-4cf9-a30e-d0eb3166c167": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/trees_diffuse.png",
+      "time": 1693467504871.746,
+      "removeTime": 1693472381041
+    },
+    "3a770b6d-1bb2-46d2-804a-326872ac923d": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/tyres_diffuse.png",
+      "time": 1693467504868.0247,
+      "removeTime": 1693472381042
+    },
+    "64a6e427-3e4c-4b48-a1cc-b03892e2a352": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/cartoon_race_track/textures/tyres_normal.png",
+      "time": 1693467504866.2385,
+      "removeTime": 1693472381042
+    },
+    "43a57305-c5fd-47ce-91a1-7cf07e463a4b": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/materials/Mat-Ground.mtl",
+      "time": 1693213034232.1472,
+      "removeTime": 1693472381037
+    },
+    "38e590ef-9e32-4343-9e8e-4bd6db77256e": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/shaders/standard-ground.effect",
+      "time": 1693213032856.6167,
+      "removeTime": 1693472381036
+    },
+    "265b78db-27ae-4c67-8737-30ad99ed6f9c": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/shaders/standard-rooster.effect",
+      "time": 1693213032853.55,
+      "removeTime": 1693472381036
+    },
+    "931f57d6-417e-4eda-b038-60e697b8caa1": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/shaders",
+      "time": 1693213032856.4116,
+      "removeTime": 1693472381033
+    },
+    "ff41bdda-3bc9-4d58-8aab-951cedc9d553": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/textures/floorTile.png",
+      "time": 1693472910483.953,
+      "removeTime": 1693472941320
+    },
+    "78ca49b4-7edb-4217-9881-f4e134d9414d": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/textures/grid.jpg",
+      "time": 1693472910481.0356,
+      "removeTime": 1693472941320
+    },
+    "7ee74584-5126-4e21-b477-7721d1d2a2fc": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/textures",
+      "time": 1693213032849.6123,
+      "removeTime": 1693472381034
+    },
+    "2449d997-b6f9-4d04-86a3-118be4872795": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/objects",
+      "time": 1693213034218.1165,
+      "removeTime": 1693472381035
+    },
+    "a6e28b55-3ea0-4439-92c1-158b8f6db6eb": {
+      "path": "/Users/fouryu/Desktop/KylinsEasyController/assets/models/objects/fbx_map0.FBX",
+      "time": 1693213034226.95,
+      "removeTime": 1693472381039
+    },
+    "161855d6-1e5a-4e58-bb1a-f5b49200a4ee": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man",
+      "time": 1693213034215.2878,
+      "removeTime": 1693471698935
+    },
+    "f29550d7-bf7d-420d-9cdc-b11df4855fbe": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/ani_graph_role_rooster_man.animgraph",
+      "time": 1693213034215.5083,
+      "removeTime": 1693471698936
+    },
+    "f26be37a-e527-4b5d-a764-80104c4560e5": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_mask_rig_sokoban.animask",
+      "time": 1693213034213.8867,
+      "removeTime": 1693471698936
+    },
+    "90de7847-9e60-4cb2-8f12-51399ada4b6c": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_mask_rig_unbrella.animask",
+      "time": 1693213034211.4448,
+      "removeTime": 1693471698936
+    },
+    "af71c043-e2e4-4a55-91cc-0b0dea42472b": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_climb_over.FBX",
+      "time": 1693213034208.08,
+      "removeTime": 1693471698937
+    },
+    "2cca57b9-f8e2-4cdc-9817-585128320009": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_fall_into_water.FBX",
+      "time": 1693213034203.061,
+      "removeTime": 1693471698937
+    },
+    "b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_fall_into_water_die.FBX",
+      "time": 1693213034199.1255,
+      "removeTime": 1693471698937
+    },
+    "b8549459-6e21-4ea0-a69c-c23213cfa0b1": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_fly.FBX",
+      "time": 1693213034195.3118,
+      "removeTime": 1693471698938
+    },
+    "71cd5f68-0f8d-4c92-842a-19b599abf4e3": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_fly_open.FBX",
+      "time": 1693213034190.7761,
+      "removeTime": 1693471698938
+    },
+    "c657cafb-170c-45b7-ba51-ac61469db43f": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_fly_shut.FBX",
+      "time": 1693213034186.5466,
+      "removeTime": 1693471698939
+    },
+    "bf851bc5-65ad-42e0-bc99-644270b6cf67": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_high_speed_drop_ground.FBX",
+      "time": 1693213032945.8079,
+      "removeTime": 1693471698939
+    },
+    "ad458d2b-05f5-4d4a-ab6a-936cd46d9766": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_idle_1.FBX",
+      "time": 1693213032939.368,
+      "removeTime": 1693471698940
+    },
+    "6f667909-55ed-4ad3-97d1-5a103ff6d769": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_idle_2.FBX",
+      "time": 1693213032935.65,
+      "removeTime": 1693471698940
+    },
+    "22b9e5fa-452b-4d39-b970-0ef14606f9ec": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_jump.FBX",
+      "time": 1693213032930.2295,
+      "removeTime": 1693471698941
+    },
+    "4e5e790d-384c-4806-ace2-11fb5131d5a4": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_run.FBX",
+      "time": 1693213032925.2385,
+      "removeTime": 1693471698941
+    },
+    "c1384d07-8d39-4e1b-afc5-a861976b43b2": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_sky_jump.FBX",
+      "time": 1693213032920.603,
+      "removeTime": 1693471698942
+    },
+    "ef35630b-fbaf-43b2-ab69-409fabe89908": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_sokoban.FBX",
+      "time": 1693213032915.642,
+      "removeTime": 1693471698942
+    },
+    "e1a305ec-3d79-461f-abf0-c844738af84a": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_stand_to_climb.FBX",
+      "time": 1693213032908.771,
+      "removeTime": 1693471698942
+    },
+    "648b3db6-164d-4e37-bf3a-ba18a1d1bbc4": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_walk.FBX",
+      "time": 1693213032903.41,
+      "removeTime": 1693471698943
+    },
+    "86700f78-dd53-445d-b4f3-bf1d6bf6addc": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/anim_rig_win.FBX",
+      "time": 1693213032898.525,
+      "removeTime": 1693471698944
+    },
+    "818afa8d-4f32-4b2f-8dd7-b09a3315ff50": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/rooster_man_skin.FBX",
+      "time": 1693213032888.2493,
+      "removeTime": 1693471698944
+    },
+    "a2f8f911-6a76-4c49-b9ae-0dfa37e43ed7": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/models/rooster_man/tex_rooster_man.png",
+      "time": 1693213032880.918,
+      "removeTime": 1693471698945
+    },
+    "5a3feb09-61d5-4b9a-b480-7b90c02f905e": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/kylins_easy_controller",
+      "time": 1693213034240.7598,
+      "removeTime": 1693472059402
+    },
+    "d197a4ec-eefd-4692-9c32-a5d2757b327c": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/kylins_easy_controller/CharacterMovement.ts",
+      "time": 1693213034240.8506,
+      "removeTime": 1693472059402
+    },
+    "cc9338a3-89a7-411b-8ec6-67ad715c0e76": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/kylins_easy_controller/EasyController.ts",
+      "time": 1693213034239.8699,
+      "removeTime": 1693472059402
+    },
+    "6c02dedb-5810-484d-b327-95356b0c9f95": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/kylins_easy_controller/FPSCamera.ts",
+      "time": 1693213034238.9246,
+      "removeTime": 1693472059402
+    },
+    "4569ab45-ae90-4980-984b-10db774e698b": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/kylins_easy_controller/FreeCamera.ts",
+      "time": 1693274464792.241,
+      "removeTime": 1693472059402
+    },
+    "195f1fed-355b-48b3-97ae-3a77101295b4": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/kylins_easy_controller/ThirdPersonCamera.ts",
+      "time": 1693213034236.9097,
+      "removeTime": 1693472059402
+    },
+    "0d3fd50c-507d-45ab-81b5-dc85a3ecb7f6": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/kylins_easy_controller/UI_Joystick.ts",
+      "time": 1693213034235.7002,
+      "removeTime": 1693472059402
+    },
+    "55ac4e22-a145-4a46-92f1-a45afa1b8f08": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/kylins_easy_controller/ui_joystick_panel.prefab",
+      "time": 1693213034234.5586,
+      "removeTime": 1693472059403
+    },
+    "0d6c75ac-8171-4aaa-a146-3d530a2632f9": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scenes/rooster_jump.scene",
+      "time": 1693471506792.8474,
+      "removeTime": 1693471857559
+    },
+    "77887099-f891-49b7-b368-58c92500c29f": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/textures",
+      "time": 1693213032849.6125,
+      "removeTime": 1693472497033
+    },
+    "bb64412b-7a26-4360-8aa3-80720f6f46e3": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/scripts/RoosterJumpEntry.ts",
+      "time": 1693472122293.7317,
+      "removeTime": 1693472577168
+    },
+    "da9930b0-8f64-4830-a84f-36c2a79ae7ef": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/textures",
+      "time": 1693472887971.6677,
+      "removeTime": 1693472901292
+    },
+    "970bec13-28ac-4ea1-95fb-b21c042d2326": {
+      "path": "/Users/fouryu/Documents/GitHub/yuzhilin-public/20-mateverse/assets/textures",
+      "time": 1693472910483.1978,
+      "removeTime": 1693472941320
+    }
+  }
+}

@@ -1,0 +1,351 @@
+2023-9-1 10:49:29-log: Cannot access game frame or container.
+2023-9-1 10:49:29-debug: asset-db:require-engine-code (1455ms)
+2023-9-1 10:49:29-log: Cocos Creator v3.8.0
+2023-9-1 10:49:29-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:19.14MB, end 87.81MB, increase: 68.67MB
+2023-9-1 10:49:30-debug: [Assets Memory track]: asset-db-plugin-register: programming start:88.67MB, end 93.95MB, increase: 5.27MB
+2023-9-1 10:49:30-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:87.82MB, end 91.20MB, increase: 3.38MB
+2023-9-1 10:49:30-debug: asset-db:worker-init: initPlugin (302ms)
+2023-9-1 10:49:30-debug: [Assets Memory track]: asset-db:worker-init start:19.13MB, end 91.25MB, increase: 72.12MB
+2023-9-1 10:49:30-debug: Run asset db hook engine-extends:beforePreStart ...
+2023-9-1 10:49:30-debug: Run asset db hook programming:beforePreStart success!
+2023-9-1 10:49:30-debug: Run asset db hook engine-extends:beforePreStart success!
+2023-9-1 10:49:30-debug: Run asset db hook programming:beforePreStart ...
+2023-9-1 10:49:30-debug: asset-db:worker-init (2826ms)
+2023-9-1 10:49:30-debug: asset-db-hook-programming-beforePreStart (689ms)
+2023-9-1 10:49:30-debug: asset-db-hook-engine-extends-beforePreStart (689ms)
+2023-9-1 10:49:30-debug: Preimport db internal success
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controllerbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scriptsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/modelsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenesbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materialsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/manbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/sourcebackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/texturesbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/CharacterMovement.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-bookbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/EasyController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/ThirdPersonCamera.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/FreeCamera.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:30-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/FPSCamera.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:31-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/UI_Joystick.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:31-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scripts/Entry.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:31-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scripts/FullScreenCtrl.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:31-debug: Preimport db assets success
+2023-9-1 10:49:31-debug: Run asset db hook programming:afterPreStart ...
+2023-9-1 10:49:34-debug: run package(builder) handler(enable) start
+2023-9-1 10:49:43-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:111.36MB, end 277.61MB, increase: 166.25MB
+2023-9-1 10:49:43-debug: run package(builder) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(shortcuts) handler(enable) start
+2023-9-1 10:49:43-debug: run package(about) handler(enable) start
+2023-9-1 10:49:43-debug: run package(about) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(assets) handler(enable) start
+2023-9-1 10:49:43-debug: run package(assets) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(console) handler(enable) start
+2023-9-1 10:49:43-debug: run package(animation-graph) handler(enable) start
+2023-9-1 10:49:43-debug: run package(crash-reporter) handler(enable) start
+2023-9-1 10:49:43-debug: run package(crash-reporter) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(extension) handler(enable) start
+2023-9-1 10:49:43-debug: run package(extension) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(animation-graph) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(hierarchy) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(inspector) handler(enable) start
+2023-9-1 10:49:43-debug: run package(inspector) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(light-probe) handler(enable) start
+2023-9-1 10:49:43-debug: run package(light-probe) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(lightmap) handler(enable) start
+2023-9-1 10:49:43-debug: run package(lightmap) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(node-library) handler(enable) start
+2023-9-1 10:49:43-debug: run package(node-library) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(package-asset) handler(enable) start
+2023-9-1 10:49:43-debug: run package(package-asset) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(process) handler(enable) start
+2023-9-1 10:49:43-debug: run package(process) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(reference-image) handler(enable) start
+2023-9-1 10:49:43-debug: run package(reference-image) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(shortcuts) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(reflection-probe) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(hierarchy) handler(enable) start
+2023-9-1 10:49:43-debug: run package(engine-extends) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(adsense-h5g-plugin) handler(enable) start
+2023-9-1 10:49:43-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(reflection-probe) handler(enable) start
+2023-9-1 10:49:43-debug: run package(console) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(android) handler(enable) start
+2023-9-1 10:49:43-debug: run package(android) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(alipay-mini-game) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(bytedance-mini-game) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(certificate) handler(enable) start
+2023-9-1 10:49:43-debug: run package(certificate) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(channel-upload-tools) handler(enable) start
+2023-9-1 10:49:43-debug: run package(channel-upload-tools) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(fb-instant-games) handler(enable) start
+2023-9-1 10:49:43-debug: run package(fb-instant-games) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(huawei-agc) handler(enable) start
+2023-9-1 10:49:43-debug: run package(huawei-agc) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(huawei-quick-game) handler(enable) start
+2023-9-1 10:49:43-debug: run package(huawei-quick-game) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(ios) handler(enable) start
+2023-9-1 10:49:43-debug: run package(ios) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(linux) handler(enable) start
+2023-9-1 10:49:43-debug: run package(linux) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(mac) handler(enable) start
+2023-9-1 10:49:43-debug: run package(mac) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(native) handler(enable) start
+2023-9-1 10:49:43-debug: run package(native) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(ohos) handler(enable) start
+2023-9-1 10:49:43-debug: run package(ohos) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(bytedance-mini-game) handler(enable) start
+2023-9-1 10:49:43-debug: run package(openharmony) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(oppo-mini-game) handler(enable) start
+2023-9-1 10:49:43-debug: run package(oppo-mini-game) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(openharmony) handler(enable) start
+2023-9-1 10:49:43-debug: run package(runtime-dev-tools) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(taobao-creative-app) handler(enable) start
+2023-9-1 10:49:43-debug: run package(taobao-creative-app) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(taobao-mini-game) handler(enable) start
+2023-9-1 10:49:43-debug: run package(taobao-mini-game) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(vivo-mini-game) handler(enable) start
+2023-9-1 10:49:43-debug: run package(vivo-mini-game) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(web-desktop) handler(enable) start
+2023-9-1 10:49:43-debug: run package(engine-extends) handler(enable) start
+2023-9-1 10:49:43-debug: run package(runtime-dev-tools) handler(enable) start
+2023-9-1 10:49:43-debug: run package(web-mobile) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(wechatgame) handler(enable) start
+2023-9-1 10:49:43-debug: run package(wechatgame) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(wechatprogram) handler(enable) start
+2023-9-1 10:49:43-debug: run package(wechatprogram) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(windows) handler(enable) start
+2023-9-1 10:49:43-debug: run package(windows) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(web-desktop) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(web-mobile) handler(enable) start
+2023-9-1 10:49:43-debug: run package(cocos-service) handler(enable) start
+2023-9-1 10:49:43-debug: run package(cocos-service) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(im-plugin) handler(enable) start
+2023-9-1 10:49:43-debug: run package(im-plugin) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(prefab380fix) handler(enable) start
+2023-9-1 10:49:43-debug: run package(prefab380fix) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(placeholder) handler(enable) start
+2023-9-1 10:49:43-debug: run package(placeholder) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(xiaomi-quick-game) handler(enable) start
+2023-9-1 10:49:43-debug: run package(xiaomi-quick-game) handler(enable) success!
+2023-9-1 10:49:43-debug: run package(alipay-mini-game) handler(enable) start
+2023-9-1 10:49:44-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-1 10:49:44-debug: Run asset db hook engine-extends:afterPreStart ...
+2023-9-1 10:49:44-debug: Start up the 'internal' database...
+2023-9-1 10:49:44-debug: [Assets Memory track]: asset-db:worker-init: preStart start:91.25MB, end 279.52MB, increase: 188.26MB
+2023-9-1 10:49:44-debug: Run asset db hook programming:afterPreStart success!
+2023-9-1 10:49:44-debug: Run asset db hook engine-extends:afterPreStart success!
+2023-9-1 10:49:44-debug: asset-db-hook-programming-afterPreStart (13983ms)
+2023-9-1 10:49:44-debug: asset-db:worker-effect-data-processing (46ms)
+2023-9-1 10:49:44-debug: asset-db-hook-engine-extends-afterPreStart (46ms)
+2023-9-1 10:49:45-debug: start asset-db with asset: 466
+2023-9-1 10:49:45-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:109.20MB, end 282.58MB, increase: 173.37MB
+2023-9-1 10:49:45-debug: Start up the 'assets' database...
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materials/glasses.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/materials/physics-material.pmtlbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/easy_controller/ui_joystick_panel.prefabbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/scenes/mateverse.scenebackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: asset-db:worker-startup-database[internal] (14173ms)
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/ani_graph_role_rooster_man.animgraphbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_mask_rig_sokoban.animaskbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_mask_rig_unbrella.animaskbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water_die.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_climb_over.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_open.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:57-debug: Frame rate: 30 [{asset(2cca57b9-f8e2-4cdc-9817-585128320009)}]
+2023-9-1 10:49:57-debug: Reference time: [0.000000, 0.466667] [{asset(2cca57b9-f8e2-4cdc-9817-585128320009)}]
+2023-9-1 10:49:57-debug: Local time: [0.000000, 0.466667] [{asset(2cca57b9-f8e2-4cdc-9817-585128320009)}]
+2023-9-1 10:49:57-debug: Frame rate: 30 [{asset(2cca57b9-f8e2-4cdc-9817-585128320009)}]
+2023-9-1 10:49:57-debug: Take anim_rig_fall_into_water: 0.4666666666666667s [{asset(2cca57b9-f8e2-4cdc-9817-585128320009)}]
+2023-9-1 10:49:57-debug: Frame rate: 30 [{asset(b8549459-6e21-4ea0-a69c-c23213cfa0b1)}]
+2023-9-1 10:49:57-debug: Frame rate: 30 [{asset(b8549459-6e21-4ea0-a69c-c23213cfa0b1)}]
+2023-9-1 10:49:57-debug: Reference time: [0.000000, 1.666667] [{asset(b8549459-6e21-4ea0-a69c-c23213cfa0b1)}]
+2023-9-1 10:49:57-debug: Local time: [0.000000, 1.666667] [{asset(b8549459-6e21-4ea0-a69c-c23213cfa0b1)}]
+2023-9-1 10:49:57-debug: Take anim_rig_fly: 1.6666666666666667s [{asset(b8549459-6e21-4ea0-a69c-c23213cfa0b1)}]
+2023-9-1 10:49:57-debug: Frame rate: 30 [{asset(b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2)}]
+2023-9-1 10:49:57-debug: Reference time: [0.000000, 2.666667] [{asset(b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2)}]
+2023-9-1 10:49:57-debug: Frame rate: 30 [{asset(b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2)}]
+2023-9-1 10:49:57-debug: Local time: [0.000000, 2.666667] [{asset(b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2)}]
+2023-9-1 10:49:57-debug: Take anim_rig_fall_into_water_die: 2.6666666666666665s [{asset(b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2)}]
+2023-9-1 10:49:57-debug: Frame rate: 30 [{asset(af71c043-e2e4-4a55-91cc-0b0dea42472b)}]
+2023-9-1 10:49:57-debug: Local time: [0.000000, 1.000000] [{asset(af71c043-e2e4-4a55-91cc-0b0dea42472b)}]
+2023-9-1 10:49:57-debug: Reference time: [0.000000, 1.000000] [{asset(af71c043-e2e4-4a55-91cc-0b0dea42472b)}]
+2023-9-1 10:49:57-debug: Frame rate: 30 [{asset(af71c043-e2e4-4a55-91cc-0b0dea42472b)}]
+2023-9-1 10:49:57-debug: Take anim_rig_climb_over: 1s [{asset(af71c043-e2e4-4a55-91cc-0b0dea42472b)}]
+2023-9-1 10:49:57-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water.FBX@24b96background: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:58-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly.FBX@078fabackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:58-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water_die.FBX@380a2background: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:58-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_climb_over.FBX@30eb7background: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:58-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water.FBX@6ecd3background: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:58-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly.FBX@42d32background: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:58-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fall_into_water_die.FBX@b8171background: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:59-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_climb_over.FBX@c2dacbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:59-debug: Frame rate: 30 [{asset(71cd5f68-0f8d-4c92-842a-19b599abf4e3)}]
+2023-9-1 10:49:59-debug: Frame rate: 30 [{asset(71cd5f68-0f8d-4c92-842a-19b599abf4e3)}]
+2023-9-1 10:49:59-debug: Reference time: [0.000000, 0.666667] [{asset(71cd5f68-0f8d-4c92-842a-19b599abf4e3)}]
+2023-9-1 10:49:59-debug: Take anim_rig_fly_open: 0.6666666666666666s [{asset(71cd5f68-0f8d-4c92-842a-19b599abf4e3)}]
+2023-9-1 10:49:59-debug: Local time: [0.000000, 0.666667] [{asset(71cd5f68-0f8d-4c92-842a-19b599abf4e3)}]
+2023-9-1 10:49:59-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_shut.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:59-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_high_speed_drop_ground.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:59-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_2.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:59-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_1.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:49:59-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_open.FBX@95b6dbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:10-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_open.FBX@7aebcbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:10-debug: Frame rate: 30 [{asset(bf851bc5-65ad-42e0-bc99-644270b6cf67)}]
+2023-9-1 10:50:10-debug: Reference time: [0.000000, 3.000000] [{asset(bf851bc5-65ad-42e0-bc99-644270b6cf67)}]
+2023-9-1 10:50:10-debug: Frame rate: 30 [{asset(bf851bc5-65ad-42e0-bc99-644270b6cf67)}]
+2023-9-1 10:50:10-debug: Take anim_rig_high_speed_drop_ground: 3s [{asset(bf851bc5-65ad-42e0-bc99-644270b6cf67)}]
+2023-9-1 10:50:10-debug: Local time: [0.000000, 3.000000] [{asset(bf851bc5-65ad-42e0-bc99-644270b6cf67)}]
+2023-9-1 10:50:10-debug: Frame rate: 30 [{asset(c657cafb-170c-45b7-ba51-ac61469db43f)}]
+2023-9-1 10:50:10-debug: Reference time: [0.000000, 1.333333] [{asset(c657cafb-170c-45b7-ba51-ac61469db43f)}]
+2023-9-1 10:50:10-debug: Take anim_rig_fly_shut: 1.3333333333333333s [{asset(c657cafb-170c-45b7-ba51-ac61469db43f)}]
+2023-9-1 10:50:10-debug: Local time: [0.000000, 1.333333] [{asset(c657cafb-170c-45b7-ba51-ac61469db43f)}]
+2023-9-1 10:50:10-debug: Frame rate: 30 [{asset(c657cafb-170c-45b7-ba51-ac61469db43f)}]
+2023-9-1 10:50:10-debug: Frame rate: 30 [{asset(6f667909-55ed-4ad3-97d1-5a103ff6d769)}]
+2023-9-1 10:50:10-debug: Local time: [0.000000, 1.100000] [{asset(6f667909-55ed-4ad3-97d1-5a103ff6d769)}]
+2023-9-1 10:50:10-debug: Frame rate: 30 [{asset(6f667909-55ed-4ad3-97d1-5a103ff6d769)}]
+2023-9-1 10:50:10-debug: Reference time: [0.000000, 1.100000] [{asset(6f667909-55ed-4ad3-97d1-5a103ff6d769)}]
+2023-9-1 10:50:10-debug: Take anim_rig_idle_2: 1.1s [{asset(6f667909-55ed-4ad3-97d1-5a103ff6d769)}]
+2023-9-1 10:50:10-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_jump.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:10-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_high_speed_drop_ground.FBX@981f6background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:11-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_shut.FBX@35302background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:11-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_2.FBX@79341background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:11-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_fly_shut.FBX@f21ddbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:11-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_high_speed_drop_ground.FBX@637dfbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:11-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_2.FBX@ee8e6background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:14-debug: Frame rate: 30 [{asset(ad458d2b-05f5-4d4a-ab6a-936cd46d9766)}]
+2023-9-1 10:50:14-debug: Local time: [0.000000, 1.333333] [{asset(ad458d2b-05f5-4d4a-ab6a-936cd46d9766)}]
+2023-9-1 10:50:14-debug: Reference time: [0.000000, 1.333333] [{asset(ad458d2b-05f5-4d4a-ab6a-936cd46d9766)}]
+2023-9-1 10:50:14-debug: Take anim_rig_idle_1: 1.3333333333333333s [{asset(ad458d2b-05f5-4d4a-ab6a-936cd46d9766)}]
+2023-9-1 10:50:14-debug: Frame rate: 30 [{asset(ad458d2b-05f5-4d4a-ab6a-936cd46d9766)}]
+2023-9-1 10:50:14-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_run.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:14-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sky_jump.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:14-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_1.FBX@e6c45background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:14-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sokoban.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:17-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_idle_1.FBX@d7175background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:33-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_stand_to_climb.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:33-debug: Frame rate: 30 [{asset(22b9e5fa-452b-4d39-b970-0ef14606f9ec)}]
+2023-9-1 10:50:33-debug: Local time: [0.000000, 1.333333] [{asset(22b9e5fa-452b-4d39-b970-0ef14606f9ec)}]
+2023-9-1 10:50:33-debug: Reference time: [0.000000, 1.333333] [{asset(22b9e5fa-452b-4d39-b970-0ef14606f9ec)}]
+2023-9-1 10:50:33-debug: Frame rate: 30 [{asset(22b9e5fa-452b-4d39-b970-0ef14606f9ec)}]
+2023-9-1 10:50:33-debug: Take anim_rig_jump: 1.3333333333333333s [{asset(22b9e5fa-452b-4d39-b970-0ef14606f9ec)}]
+2023-9-1 10:50:33-debug: Frame rate: 30 [{asset(4e5e790d-384c-4806-ace2-11fb5131d5a4)}]
+2023-9-1 10:50:33-debug: Frame rate: 30 [{asset(4e5e790d-384c-4806-ace2-11fb5131d5a4)}]
+2023-9-1 10:50:33-debug: Take anim_rig_run: 0.8s [{asset(4e5e790d-384c-4806-ace2-11fb5131d5a4)}]
+2023-9-1 10:50:33-debug: Local time: [0.000000, 0.800000] [{asset(4e5e790d-384c-4806-ace2-11fb5131d5a4)}]
+2023-9-1 10:50:33-debug: Reference time: [0.000000, 0.800000] [{asset(4e5e790d-384c-4806-ace2-11fb5131d5a4)}]
+2023-9-1 10:50:33-debug: Frame rate: 30 [{asset(c1384d07-8d39-4e1b-afc5-a861976b43b2)}]
+2023-9-1 10:50:33-debug: Take anim_rig_sky_jump: 1.4333333333333333s [{asset(c1384d07-8d39-4e1b-afc5-a861976b43b2)}]
+2023-9-1 10:50:33-debug: Reference time: [0.000000, 1.433333] [{asset(c1384d07-8d39-4e1b-afc5-a861976b43b2)}]
+2023-9-1 10:50:33-debug: Frame rate: 30 [{asset(c1384d07-8d39-4e1b-afc5-a861976b43b2)}]
+2023-9-1 10:50:33-debug: Local time: [0.000000, 1.433333] [{asset(c1384d07-8d39-4e1b-afc5-a861976b43b2)}]
+2023-9-1 10:50:33-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_jump.FBX@d32b9background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:37-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_run.FBX@bf627background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:37-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sky_jump.FBX@5e9fabackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:37-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_jump.FBX@f75c3background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_run.FBX@a974abackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: Local time: [0.000000, 1.333333] [{asset(ef35630b-fbaf-43b2-ab69-409fabe89908)}]
+2023-9-1 10:50:38-debug: Frame rate: 30 [{asset(ef35630b-fbaf-43b2-ab69-409fabe89908)}]
+2023-9-1 10:50:38-debug: Frame rate: 30 [{asset(ef35630b-fbaf-43b2-ab69-409fabe89908)}]
+2023-9-1 10:50:38-debug: Take anim_rig_sokoban: 1.3333333333333333s [{asset(ef35630b-fbaf-43b2-ab69-409fabe89908)}]
+2023-9-1 10:50:38-debug: Reference time: [0.000000, 1.333333] [{asset(ef35630b-fbaf-43b2-ab69-409fabe89908)}]
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sky_jump.FBX@fc519background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: Frame rate: 30 [{asset(e1a305ec-3d79-461f-abf0-c844738af84a)}]
+2023-9-1 10:50:38-debug: Take anim_rig_stand_to_climb: 1s [{asset(e1a305ec-3d79-461f-abf0-c844738af84a)}]
+2023-9-1 10:50:38-debug: Local time: [0.000000, 1.000000] [{asset(e1a305ec-3d79-461f-abf0-c844738af84a)}]
+2023-9-1 10:50:38-debug: Frame rate: 30 [{asset(e1a305ec-3d79-461f-abf0-c844738af84a)}]
+2023-9-1 10:50:38-debug: Reference time: [0.000000, 1.000000] [{asset(e1a305ec-3d79-461f-abf0-c844738af84a)}]
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_jump.FBX@2fbd8background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_walk.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_jump.FBX@41dacbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_win.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sokoban.FBX@36da2background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_stand_to_climb.FBX@52040background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:38-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_sokoban.FBX@36e6abackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:39-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_stand_to_climb.FBX@71ce6background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/tex_rooster_man.pngbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:45-debug: Frame rate: 30 [{asset(648b3db6-164d-4e37-bf3a-ba18a1d1bbc4)}]
+2023-9-1 10:50:45-debug: Frame rate: 30 [{asset(648b3db6-164d-4e37-bf3a-ba18a1d1bbc4)}]
+2023-9-1 10:50:45-debug: Take anim_rig_walk: 1.0666666666666667s [{asset(648b3db6-164d-4e37-bf3a-ba18a1d1bbc4)}]
+2023-9-1 10:50:45-debug: Local time: [0.000000, 1.066667] [{asset(648b3db6-164d-4e37-bf3a-ba18a1d1bbc4)}]
+2023-9-1 10:50:45-debug: Reference time: [0.000000, 1.066667] [{asset(648b3db6-164d-4e37-bf3a-ba18a1d1bbc4)}]
+2023-9-1 10:50:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_walk.FBX@c0bd0background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/tex_rooster_man.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:45-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_walk.FBX@e84a6background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:48-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_alpha.jpgbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:48-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_glow.jpgbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:48-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbxbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:48-debug: Frame rate: 30 [{asset(86700f78-dd53-445d-b4f3-bf1d6bf6addc)}]
+2023-9-1 10:50:48-debug: Take anim_rig_win: 2.533333333333333s [{asset(86700f78-dd53-445d-b4f3-bf1d6bf6addc)}]
+2023-9-1 10:50:48-debug: Reference time: [0.000000, 2.533333] [{asset(86700f78-dd53-445d-b4f3-bf1d6bf6addc)}]
+2023-9-1 10:50:48-debug: Frame rate: 30 [{asset(86700f78-dd53-445d-b4f3-bf1d6bf6addc)}]
+2023-9-1 10:50:48-debug: Local time: [0.000000, 2.533333] [{asset(86700f78-dd53-445d-b4f3-bf1d6bf6addc)}]
+2023-9-1 10:50:48-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_glow.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:48-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_alpha.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:48-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_win.FBX@53e2dbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:51-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/texture.jpgbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:51-debug: Frame rate: 30 [{asset(818afa8d-4f32-4b2f-8dd7-b09a3315ff50)}]
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/anim_rig_win.FBX@6cfe5background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@27558background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/texture.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: Frame rate: 30 [{asset(a70acfaa-c6c8-4620-915d-fe8478102bf4)}]
+2023-9-1 10:50:52-debug: Reference time: [0.000000, 10.000000] [{asset(a70acfaa-c6c8-4620-915d-fe8478102bf4)}]
+2023-9-1 10:50:52-debug: Frame rate: 30 [{asset(a70acfaa-c6c8-4620-915d-fe8478102bf4)}]
+2023-9-1 10:50:52-debug: Local time: [0.000000, 10.000000] [{asset(a70acfaa-c6c8-4620-915d-fe8478102bf4)}]
+2023-9-1 10:50:52-debug: Take Take 001: 10s [{asset(a70acfaa-c6c8-4620-915d-fe8478102bf4)}]
+2023-9-1 10:50:52-debug: Found FBX-glTF-conv specified extras: {  "fileName": "C:\\Users\\Stefan\\Desktop\\texture.jpg",  "relativeFileName": "texture.jpg"}
+2023-9-1 10:50:52-debug: Image(Name: Texture-base-jpg, Expected path: undefined) is not found, fuzzy search starts.
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@30732background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@64191background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: Found /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/texture.jpg, use it.
+2023-9-1 10:50:52-debug: Found FBX-glTF-conv specified extras: {  "fileName": "C:\\Users\\Stefan\\Desktop\\texture.jpg",  "relativeFileName": "texture.jpg"}
+2023-9-1 10:50:52-debug: Image(Name: Texture-base-gloss-jpg, Expected path: undefined) is not found, fuzzy search starts.
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@73ecebackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@54e73background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: Found /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/texture.jpg, use it.
+2023-9-1 10:50:52-debug: Found FBX-glTF-conv specified extras: {  "fileName": "C:\\Users\\Stefan\\Desktop\\text_alpha.jpg",  "relativeFileName": "text_alpha.jpg"}
+2023-9-1 10:50:52-debug: Image(Name: Map #9, Expected path: undefined) is not found, fuzzy search starts.
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@d24b3background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: Found /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/textures/text_alpha.jpg, use it.
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@16917background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@26843background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@bded7background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@a62febackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@f1394background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@96fb6background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@75ee4background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@a72abbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@198b4background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@3df8bbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/man/rooster_man_skin.FBX@127b0background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-log: Importer: Reuse previously edited material data. 818afa8d-4f32-4b2f-8dd7-b09a3315ff50@127b0
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@161f5background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@b2be8background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@2f8e2background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@8975abackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@73b7fbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@7a143background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@d4958background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@d0b4bbackground: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@2f185background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: %cImport%c: /Users/fouryu/Documents/GitHub/yuzhilin-public/20-metaverse/assets/models/medieval-fantasy-book/source/TEST2.fbx@117c7background: #aaff85; color: #000;color: #000;
+2023-9-1 10:50:52-debug: start asset-db with asset: 46
+2023-9-1 10:50:52-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:109.24MB, end 227.38MB, increase: 118.14MB
+2023-9-1 10:50:52-debug: asset-db:worker-startup-database[assets] (81954ms)
+2023-9-1 10:50:52-debug: asset-db:start-database (82660ms)
+2023-9-1 10:50:52-debug: asset-db:ready (88136ms)
+2023-9-1 10:50:52-debug: init worker message success
+2023-9-1 10:50:53-debug: [Build Memory track]: builder:worker-init start:229.50MB, end 242.94MB, increase: 13.44MB
+2023-9-1 10:50:53-debug: programming:execute-script (11ms)
+2023-9-1 10:50:53-debug: builder:worker-init (746ms)
+2023-9-1 10:50:55-debug: programming:execute-script (7ms)
+2023-9-1 10:51:12-debug: refresh db internal success
+2023-9-1 10:51:12-debug: refresh db assets success
+2023-9-1 10:51:12-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-9-1 10:51:12-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-9-1 10:51:12-debug: asset-db:refresh-all-database (55ms)
+2023-9-1 10:51:12-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
